@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body>
+
+<div id="all">
+
+    <header>
+
+        {{ partial "nav.html" . }}
+
+    </header>
+
+    {{ partial "breadcrumbs.html" . }}
+
+    <div id="content">
+        <div class="container">
+
+            <div class="row">
+
+                <!-- *** LEFT COLUMN *** -->
+
+                <div class="col-md-9" id="blog-post">
+
+                    {{ if or .Params.author .Params.date }}
+                    <p class="text-muted text-uppercase mb-small text-right">
+                        {{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>{{ end }}
+                        {{ if and .Params.author .Params.date }} | {{ end }}
+                        {{ if .Params.date }}{{ .Date.Format .Site.Params.date_format }}{{ end }}
+                    </p>
+                    {{ end }}
+
+                    <div id="post-content">
+                        {{ .Content }}
+                        <h1>Équipe</h1>
+                        <div class="row text-center">
+                            <div class="col-md-3">
+                                <div data-animate="fadeInUp" class="team-member">
+                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-1.jpg" alt="" class="img-fluid rounded-circle"></a></div>
+                                    <h3><a href="team-member.html">Han Solo</a></h3>
+                                    <p class="role">Founder</p>
+                                    <ul class="social list-inline">
+                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
+                                    </ul>
+                                    <div class="text">
+                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.team-member-->
+                            <div data-animate="fadeInUp" class="col-md-3">
+                                <div class="team-member">
+                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-2.jpg" alt="" class="img-fluid rounded-circle"></a></div>
+                                    <h3><a href="team-member.html">Luke Skywalker</a></h3>
+                                    <p class="role">CTO</p>
+                                    <ul class="social list-inline">
+                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
+                                    </ul>
+                                    <div class="text">
+                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.team-member-->
+                            <div data-animate="fadeInUp" class="col-md-3">
+                                <div class="team-member">
+                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-3.png" alt="" class="img-fluid rounded-circle"></a></div>
+                                    <h3><a href="team-member.html">Princess Leia</a></h3>
+                                    <p class="role">Team Leader</p>
+                                    <ul class="social list-inline">
+                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
+                                    </ul>
+                                    <div class="text">
+                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.team-member-->
+                            <div data-animate="fadeInUp" class="col-md-3">
+                                <div class="team-member">
+                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-4.jpg" alt="" class="img-fluid rounded-circle"></a></div>
+                                    <h3><a href="team-member.html">Jabba Hut</a></h3>
+                                    <p class="role">Lead Developer</p>
+                                    <ul class="social list-inline">
+                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
+                                    </ul>
+                                    <div class="text">
+                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#post-content -->
+                    {{ if .Site.DisqusShortname }}
+                    <div id="comments">
+                        {{ template "_internal/disqus.html" . }}
+                    </div>
+                    {{ end }}
+
+                </div>
+                <!-- /#blog-post -->
+
+                <!-- *** LEFT COLUMN END *** -->
+
+                <!-- *** RIGHT COLUMN *** -->
+
+
+                <!-- /.col-md-3 -->
+
+                <!-- *** RIGHT COLUMN END *** -->
+
+            </div>
+            <!-- /.row -->
+
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /#content -->
+
+    {{ partial "footer.html" . }}
+
+</div>
+<!-- /#all -->
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>

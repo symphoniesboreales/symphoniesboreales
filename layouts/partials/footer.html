@@ -1,0 +1,53 @@
+<footer id="footer">
+    <div class="container">
+
+        {{ if isset .Site.Params "email" }}
+        <div class="col-md-4 col-sm-6">
+
+          <h4>{{ i18n "contactTitle" }}</h4>
+
+            {{ .Site.Params.email | safeHTML }}
+
+            <div class="social">
+
+                <a href="https://www.facebook.com/symphoniesboreales" target="_blank" style="opacity: 1;"><i class="fab fa-facebook"></i></a>
+
+                <a href="https://github.com/devcows/hugo-universal-theme" target="_blank" style="opacity: 1;"><i class="fab fa-instagram"></i></a>
+
+                <a href="https://twitter.com/BorealesBoreal" target="_blank" style="opacity: 1;"><i class="fab fa-twitter"></i></a>
+
+            </div>
+
+            <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- /#footer -->
+
+<!-- *** FOOTER END *** -->
+
+<!-- *** COPYRIGHT ***
+_________________________________________________________ -->
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            <p class="pull-left">{{ i18n "copyright" }}</p>
+            <p class="pull-right">
+              {{ i18n "templateBy" | markdownify }} <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
+              <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+            </p>
+        </div>
+    </div>
+</div>
+<!-- /#copyright -->
+
+<!-- *** COPYRIGHT END *** -->

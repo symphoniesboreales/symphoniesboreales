@@ -1,0 +1,13 @@
+backgroundClass: "background-white"
+fr:
+  title: "À propos"
+  description: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
+    Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
+    Ut congue libero ligula, suscipit fringilla tortor faucibus non.
+en:
+  title: "[EN] À propos"
+  description: >
+    [EN] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
+    Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
+    Ut congue libero ligula, suscipit fringilla tortor faucibus non.

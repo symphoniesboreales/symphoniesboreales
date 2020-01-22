@@ -1,0 +1,37 @@
+{{ if eq .Site.Language.Lang "fr" }}
+{{ range .Site.Data.apercus }}
+<section class="bar {{ .backgroundClass }} no-mb no-mt">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .fr.title | markdownify }}</h2>
+            </div>
+
+            <p class="lead">
+                {{ .fr.description | markdownify }}
+            </p>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ if eq .Site.Language.Lang "en" }}
+{{ range .Site.Data.apercus }}
+<section class="bar {{ .backgroundClass }} no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .en.title | markdownify }}</h2>
+            </div>
+
+            <p class="lead">
+                {{ .en.description | markdownify }}
+            </p>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
