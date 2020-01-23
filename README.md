@@ -43,7 +43,7 @@ Lorsque prêt à pousser les modifications sur github, lancer les commandes suiv
 
 `git commit` (permet de journaliser l'ensemble des changements avec un message)
 
-`git push oridign` (pousse les modifications vers le répertoire sur github.com)
+`git push origin` (pousse les modifications vers le répertoire sur github.com)
 
 ## Éditer les sections du site
 
