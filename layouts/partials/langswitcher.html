@@ -1,0 +1,10 @@
+{{ if .Site.IsMultiLingual }}
+<li class="lang-switch">
+    {{ if eq .Site.Language.Lang "fr" }}
+    <a href="/en">English</a>
+    {{ end }}
+    {{ if eq .Site.Language.Lang "en" }}
+    <a href="/">Français</a>
+    {{ end }}
+</li>
+{{ end }}

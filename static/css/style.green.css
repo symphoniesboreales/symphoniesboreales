@@ -3082,6 +3082,9 @@ fieldset[disabled] .btn-template-primary.active {
     margin-right: 0;
   }
 }
+.lang-switch a {
+  color: #809167 !important;
+}
 .navbar-default {
   background-color: #ffffff;
   border-color: #cccccc;
