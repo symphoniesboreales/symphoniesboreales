@@ -1,0 +1,11 @@
+order: 2
+name: "Le beau fred 2"
+image: "fred.png"
+social:
+  fb: https://www.facebook.com/symphoniesboreales/
+fr:
+  title: "Gars en arts"
+  description: "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci sed quia non numquam modi tempora eius."
+en:
+  title: "Artsy dude"
+  description: "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci sed quia non numquam modi tempora eius."

@@ -1,0 +1,70 @@
+{{ if eq .Site.Language.Lang "fr" }}
+{{ range sort .Site.Data.team "order"}}
+<div class="col-lg-3 col-md-6 mb-lg-0 mb-5">
+    <div class="avatar mx-auto">
+        <img src="/img/team-members/{{ .image }}" class="img-responsive" style="margin: 0 auto;"
+             alt="{{.name}}">
+    </div>
+    <h5 class="font-weight-bold mt-4 mb-3">{{.name}}</h5>
+    <p class="text-uppercase blue-text"><strong>{{.fr.title}}</strong></p>
+    <p class="grey-text">{{.fr.description}}</p>
+    <ul class="list-unstyled mb-0">
+        {{ if .social.fb }}
+        <a href="{{ .social.fb }}"class="p-2 fa-lg">
+            <i class="fab fa-facebook-f blue-text"> </i>
+        </a>
+        {{ end }}
+        {{ if .social.twitter }}
+        <a href="{{ .social.twitter }}" class="p-2 fa-lg">
+            <i class="fab fa-twitter blue-text"> </i>
+        </a>
+        {{ end }}
+        {{ if .social.researchGate }}
+        <a href="{{ .social.researchGate }}" class="p-2 fa-lg">
+            <i class="fab fa-researchgate blue-text"> </i>
+        </a>
+        {{ end }}
+        {{ if .social.web }}
+        <a href="{{ .social.web }}" class="p-2 fa-lg">
+            <i class="fa fa-globe blue-text"> </i>
+        </a>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+{{ end }}
+{{ if eq .Site.Language.Lang "en" }}
+{{ range sort .Site.Data.team "order" }}
+<div class="col-lg-3 col-md-6 mb-lg-0 mb-5">
+    <div class="avatar mx-auto">
+        <img src="/img/team-members/{{ .image }}" class="img-responsive" style="margin: 0 auto;"
+             alt="{{.name}}">
+    </div>
+    <h5 class="font-weight-bold mt-4 mb-3">{{.name}}</h5>
+    <p class="text-uppercase blue-text"><strong>{{.en.title}}</strong></p>
+    <p class="grey-text">{{.en.description}}</p>
+    <ul class="list-unstyled mb-0">
+        {{ if .social.fb }}
+        <a href="{{ .social.fb }}"class="p-2 fa-lg fb-ic">
+            <i class="fab fa-facebook-f blue-text"> </i>
+        </a>
+        {{ end }}
+        {{ if .social.twitter }}
+        <a href="{{ .social.twitter }}" class="p-2 fa-lg tw-ic">
+            <i class="fab fa-twitter blue-text"> </i>
+        </a>
+        {{ end }}
+        {{ if .social.researchGate }}
+        <a href="{{ .social.researchGate }}" class="p-2 fa-lg">
+            <i class="fab fa-researchgate blue-text"> </i>
+        </a>
+        {{ end }}
+        {{ if .social.web }}
+        <a href="{{ .social.web }}" class="p-2 fa-lg">
+            <i class="fa fa-globe blue-text"> </i>
+        </a>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+{{ end }}

@@ -3082,6 +3082,9 @@ fieldset[disabled] .btn-template-primary.active {
     margin-right: 0;
   }
 }
+.fa-lg:hover {
+  text-decoration: none;
+}
 .lang-switch a {
   color: #809167 !important;
 }
