@@ -13,7 +13,7 @@ paginate = 10
 [languages]
   [languages.en]
       contentDir = "content/en"
-      title = "[EN] Symphonies boréales"
+      title = "Boreal symphonies"
       languageCode = "en"
       [[languages.en.menu.main]]
             identifier="a-propos"
@@ -102,10 +102,10 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
+    author = "Symphonies boréales"
+    defaultKeywords = ["symphonies", "boreales", "musique","forêt", "maxence", "martin"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = "Symphonies boréales: Quand les vielles forêts nous chantent leur histoire. Projet de doctorat Maxence Martin."
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')

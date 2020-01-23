@@ -9,7 +9,7 @@
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
-                            <h1>{{ .fr.title }}</h1>
+                            <h1>{{ .fr.title | safeHTML}}</h1>
                             {{ .fr.description | safeHTML }}
                 </div>
                 {{ end }}
@@ -27,7 +27,7 @@
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
-                    <h1>{{ .en.title }}</h1>
+                    <h1>{{ .en.title | safeHTML}}</h1>
                     {{ .en.description | safeHTML }}
                 </div>
                 {{ end }}

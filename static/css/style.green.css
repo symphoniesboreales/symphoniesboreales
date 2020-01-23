@@ -1181,9 +1181,18 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=40);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
+  padding-top: 50px;
   padding-bottom: 20px;
 }
+
+@media (max-width: 600px) {
+  .home-carousel .owl-carousel {
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+}
+
+
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
 }
@@ -1226,6 +1235,16 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 40px;
   letter-spacing: 0.08em;
 }
+
+.home-carousel .item {
+  display: inline-block;
+}
+
+.home-carousel .item h1 {
+  background-color: rgba(80, 184, 94, 0.7);
+  padding: 8px 8px 0 8px;
+}
+
 .home-carousel ul,
 .home-carousel p {
   font-size: 18px;

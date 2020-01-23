@@ -1,10 +1,10 @@
 fr:
    weight: 4
-   title: "Exposition: Symphonies boréales"
+   title: "À LA UNE: <br>CONCERT ORCHESTRE SYMPHONIQUE DE SAGUENAY"
    description: >
      <a href="/a-propos" class="btn btn-template-main">En savoir plus</a>
 en:
   weight: 4
-  title: "Exposition: Boreal symphonies"
+  title: "[EN] À LA UNE: <br>CONCERT ORCHESTRE SYMPHONIQUE DE SAGUENAY"
   description: >
     <a href="/en/about" class="btn btn-template-main">Find out more</a>

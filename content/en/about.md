@@ -1,6 +1,7 @@
 +++
 title = "About"
 type = "a-propos"
+description =  "Description must be edited"
 +++
 
 # Origine du projet

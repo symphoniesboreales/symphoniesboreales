@@ -1,5 +1,6 @@
 +++
 title = "Projets"
+description =  "Cette description doit être changée"
 +++
 
 # Origine du projet
