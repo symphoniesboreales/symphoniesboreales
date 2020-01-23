@@ -1,7 +1,10 @@
-weight: 4
-title: "Symphonies boréales"
-description: >
-  <ul class="list-style-none">
-    <li>Quand les vieilles forêts</li>
-    <li>nous chantent leur histoire</li>
-  </ul>
+fr:
+   weight: 4
+   title: "Exposition: Symphonies boréales"
+   description: >
+     <a href="/a-propos" class="btn btn-template-main">En savoir plus</a>
+en:
+  weight: 4
+  title: "Exposition: Boreal symphonies"
+  description: >
+    <a href="/en/about" class="btn btn-template-main">Find out more</a>

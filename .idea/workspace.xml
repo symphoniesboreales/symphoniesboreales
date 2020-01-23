@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/music.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/projects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/science.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/fr/la-musique.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/fr/la-science.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/fr/projets.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/foret-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/sapin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/vieille-foret.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/a-propos.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/a-propos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apercus/a-propos.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/a-propos.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apercus/la-musique.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/la-musique.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apercus/la-science.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/la-science.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apercus/projets.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/projets.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/carousel/a-la-une.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/carousel/a-la-une.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/a-propos/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/a-propos/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/apercus.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/apercus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.green.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/a-la-une.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/a-la-une.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/i18n" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/en" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -33,11 +60,11 @@
       <recent name="$PROJECT_DIR$/data" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/en" />
+      <recent name="$PROJECT_DIR$/content/fr" />
+      <recent name="$PROJECT_DIR$/static/img" />
       <recent name="$PROJECT_DIR$/i18n" />
       <recent name="$PROJECT_DIR$/layouts/partials" />
-      <recent name="$PROJECT_DIR$/data/apercus" />
-      <recent name="$PROJECT_DIR$/content/en" />
-      <recent name="$PROJECT_DIR$/content" />
     </key>
   </component>
   <component name="RunDashboard">

@@ -11,6 +11,9 @@
             <p class="lead">
                 {{ .fr.description | markdownify }}
             </p>
+            <div class="row text-center">
+                <a href="{{ .fr.pageLink }}" class="btn btn-template-main foo">{{ .fr.pageLabel }}</a>
+            </div>
         </div>
     </div>
 </section>
@@ -30,6 +33,9 @@
             <p class="lead">
                 {{ .en.description | markdownify }}
             </p>
+            <div class="row text-center">
+                <a href="{{ .en.pageLink }}" class="btn btn-template-main foo">{{ .en.pageLabel }}</a>
+            </div>
         </div>
     </div>
 </section>

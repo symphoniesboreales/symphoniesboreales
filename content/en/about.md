@@ -1,5 +1,6 @@
 +++
-title = "Contact"
+title = "About"
+type = "a-propos"
 +++
 
 # Origine du projet

@@ -5,9 +5,13 @@ fr:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
     Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
     Ut congue libero ligula, suscipit fringilla tortor faucibus non.
+  pageLink: "/a-propos"
+  pageLabel: "En savoir plus"
 en:
-  title: "[EN] À propos"
+  title: "About"
   description: >
     [EN] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
     Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
     Ut congue libero ligula, suscipit fringilla tortor faucibus non.
+  pageLink: "/en/about"
+  pageLabel: "Find out more"

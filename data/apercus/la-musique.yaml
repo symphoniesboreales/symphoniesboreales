@@ -1,13 +1,17 @@
-backgroundClass: "background-gray"
+backgroundClass: "background-limewater"
 fr:
   title: "La musique"
   description: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
     Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
     Ut congue libero ligula, suscipit fringilla tortor faucibus non.
+  pageLink: "/la-musique"
+  pageLabel: "En savoir plus"
 en:
-  title: "[EN] La musique"
+  title: "Music"
   description: >
     [EN] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
     Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
     Ut congue libero ligula, suscipit fringilla tortor faucibus non.
+  pageLink: "/en/music"
+  pageLabel: "Find out more"

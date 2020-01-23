@@ -1,6 +1,7 @@
 {{ if isset .Site.Params "carousel" }}
 {{ if .Site.Params.carousel.enable }}
 {{ if gt (len .Site.Data.carousel) 0 }}
+{{ if eq .Site.Language.Lang "fr" }}
 <section class="no-mb">
     <div class="home-carousel">
         <div class="dark-mask"></div>
@@ -8,8 +9,8 @@
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
-                            <h1>{{ .title }}</h1>
-                            {{ .description | safeHTML }}
+                            <h1>{{ .fr.title }}</h1>
+                            {{ .fr.description | safeHTML }}
                 </div>
                 {{ end }}
             </div>
@@ -17,6 +18,25 @@
         </div>
     </div>
 </section>
+{{ end }}
+{{ if eq .Site.Language.Lang "en" }}
+<section class="no-mb">
+    <div class="home-carousel">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel">
+                {{ range sort .Site.Data.carousel "weight" }}
+                <div class="item">
+                    <h1>{{ .en.title }}</h1>
+                    {{ .en.description | safeHTML }}
+                </div>
+                {{ end }}
+            </div>
+            <!-- /.project owl-slider -->
+        </div>
+    </div>
+</section>
+{{ end }}
 {{ end }}
 {{ end }}
 {{ end }}

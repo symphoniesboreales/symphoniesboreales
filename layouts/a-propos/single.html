@@ -22,7 +22,7 @@
 
                 <!-- *** LEFT COLUMN *** -->
 
-                <div class="col-md-9" id="blog-post">
+                <div class="col-md-12" id="blog-post">
 
                     {{ if or .Params.author .Params.date }}
                     <p class="text-muted text-uppercase mb-small text-right">
@@ -35,82 +35,120 @@
                     <div id="post-content">
                         {{ .Content }}
                         <h1>Équipe</h1>
-                        <div class="row text-center">
-                            <div class="col-md-3">
-                                <div data-animate="fadeInUp" class="team-member">
-                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-1.jpg" alt="" class="img-fluid rounded-circle"></a></div>
-                                    <h3><a href="team-member.html">Han Solo</a></h3>
-                                    <p class="role">Founder</p>
-                                    <ul class="social list-inline">
-                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
-                                    </ul>
-                                    <div class="text">
-                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                        <!-- Section: Team v.1 -->
+                        <section class="team-section text-center my-5">
+                            <!-- Grid row -->
+                            <div class="row">
+
+                                <!-- Grid column -->
+                                <div class="col-lg-3 col-md-6 mb-lg-0 mb-5">
+                                    <div class="avatar mx-auto">
+                                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(20).jpg" class="img-responsive" style="margin: 0 auto;"
+                                             alt="Sample avatar">
                                     </div>
-                                </div>
-                            </div>
-                            <!-- /.team-member-->
-                            <div data-animate="fadeInUp" class="col-md-3">
-                                <div class="team-member">
-                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-2.jpg" alt="" class="img-fluid rounded-circle"></a></div>
-                                    <h3><a href="team-member.html">Luke Skywalker</a></h3>
-                                    <p class="role">CTO</p>
-                                    <ul class="social list-inline">
-                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
+                                    <h5 class="font-weight-bold mt-4 mb-3">Anna Williams</h5>
+                                    <p class="text-uppercase blue-text"><strong>Graphic designer</strong></p>
+                                    <p class="grey-text">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+                                        adipisci sed quia non numquam modi tempora eius.</p>
+                                    <ul class="list-unstyled mb-0">
+                                        <!-- Facebook -->
+                                        <a class="p-2 fa-lg fb-ic">
+                                            <i class="fab fa-facebook-f blue-text"> </i>
+                                        </a>
+                                        <!-- Twitter -->
+                                        <a class="p-2 fa-lg tw-ic">
+                                            <i class="fab fa-twitter blue-text"> </i>
+                                        </a>
+                                        <!-- Instagram -->
+                                        <a class="p-2 fa-lg ins-ic">
+                                            <i class="fab fa-instagram blue-text"> </i>
+                                        </a>
                                     </ul>
-                                    <div class="text">
-                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-                                    </div>
                                 </div>
-                            </div>
-                            <!-- /.team-member-->
-                            <div data-animate="fadeInUp" class="col-md-3">
-                                <div class="team-member">
-                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-3.png" alt="" class="img-fluid rounded-circle"></a></div>
-                                    <h3><a href="team-member.html">Princess Leia</a></h3>
-                                    <p class="role">Team Leader</p>
-                                    <ul class="social list-inline">
-                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
+                                <!-- Grid column -->
+
+                                <!-- Grid column -->
+                                <div class="col-lg-3 col-md-6 mb-lg-0 mb-5">
+                                    <div class="avatar mx-auto">
+                                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(3).jpg" class="img-responsive" style="margin: 0 auto;"
+                                             alt="Sample avatar">
+                                    </div>
+                                    <h5 class="font-weight-bold mt-4 mb-3">John Doe</h5>
+                                    <p class="text-uppercase blue-text"><strong>Web developer</strong></p>
+                                    <p class="grey-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem ipsa accusantium
+                                        doloremque rem laudantium totam aperiam.</p>
+                                    <ul class="list-unstyled mb-0">
+                                        <!-- Facebook -->
+                                        <a class="p-2 fa-lg fb-ic">
+                                            <i class="fab fa-facebook-f blue-text"> </i>
+                                        </a>
+                                        <!-- Instagram -->
+                                        <a class="p-2 fa-lg ins-ic">
+                                            <i class="fab fa-instagram blue-text"> </i>
+                                        </a>
                                     </ul>
-                                    <div class="text">
-                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-                                    </div>
                                 </div>
-                            </div>
-                            <!-- /.team-member-->
-                            <div data-animate="fadeInUp" class="col-md-3">
-                                <div class="team-member">
-                                    <div class="image"><a href="team-member.html"><img src="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/person-4.jpg" alt="" class="img-fluid rounded-circle"></a></div>
-                                    <h3><a href="team-member.html">Jabba Hut</a></h3>
-                                    <p class="role">Lead Developer</p>
-                                    <ul class="social list-inline">
-                                        <li class="list-inline-item"><a href="#" class="external facebook"><i class="fa fa-facebook"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external gplus"><i class="fa fa-google-plus"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="external twitter"><i class="fa fa-twitter"></i></a></li>
-                                        <li class="list-inline-item"><a href="#" class="email"><i class="fa fa-envelope"></i></a></li>
+                                <!-- Grid column -->
+
+                                <!-- Grid column -->
+                                <div class="col-lg-3 col-md-6 mb-md-0 mb-5">
+                                    <div class="avatar mx-auto">
+                                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg" class="img-responsive" style="margin: 0 auto;"
+                                             alt="Sample avatar">
+                                    </div>
+                                    <h5 class="font-weight-bold mt-4 mb-3">Maria Smith</h5>
+                                    <p class="text-uppercase blue-text"><strong>Photographer</strong></p>
+                                    <p class="grey-text">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                        mollit anim est fugiat nulla id eu laborum.</p>
+                                    <ul class="list-unstyled mb-0">
+                                        <!-- Facebook -->
+                                        <a class="p-2 fa-lg fb-ic">
+                                            <i class="fab fa-facebook-f blue-text"> </i>
+                                        </a>
+                                        <!-- Instagram -->
+                                        <a class="p-2 fa-lg ins-ic">
+                                            <i class="fab fa-instagram blue-text"> </i>
+                                        </a>
+                                        <!-- Dribbble -->
+                                        <a class="p-2 fa-lg ins-ic">
+                                            <i class="fab fa-dribbble blue-text"> </i>
+                                        </a>
                                     </ul>
-                                    <div class="text">
-                                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-                                    </div>
                                 </div>
+                                <!-- Grid column -->
+
+                                <!-- Grid column -->
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="avatar mx-auto">
+                                        <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(32).jpg" class="img-responsive" style="margin: 0 auto;"
+                                             alt="Sample avatar">
+                                    </div>
+                                    <h5 class="font-weight-bold mt-4 mb-3">Tom Adams</h5>
+                                    <p class="text-uppercase blue-text"><strong>Backend developer</strong></p>
+                                    <p class="grey-text">Perspiciatis repellendus ad odit consequuntur, eveniet earum nisi qui consectetur
+                                        totam officia voluptates perferendis voluptatibus aut.</p>
+                                    <ul class="list-unstyled mb-0">
+                                        <!-- Facebook -->
+                                        <a class="p-2 fa-lg fb-ic">
+                                            <i class="fab fa-facebook-f blue-text"> </i>
+                                        </a>
+                                        <!-- Github -->
+                                        <a class="p-2 fa-lg ins-ic" href="foo">
+                                            <i class="fab fa-github blue-text"> </i>
+                                        </a>
+                                    </ul>
+                                </div>
+
+
+                                <!-- Grid column -->
+
                             </div>
-                        </div>
+                            <!-- Grid row -->
+
+                        </section>
+                        <!-- Section: Team v.1 -->
+
                     </div>
-                    <!-- /#post-content -->
-                    {{ if .Site.DisqusShortname }}
-                    <div id="comments">
-                        {{ template "_internal/disqus.html" . }}
-                    </div>
-                    {{ end }}
 
                 </div>
                 <!-- /#blog-post -->

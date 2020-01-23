@@ -17,28 +17,28 @@ paginate = 10
       languageCode = "en"
       [[languages.en.menu.main]]
             identifier="a-propos"
-            name = "[EN] À propos"
-            url  = "/en/a-propos/"
+            name = "About"
+            url  = "/en/about"
             weight = 2
       [[languages.en.menu.main]]
             identifier = "la-musique"
-            name = "[EN] La musique"
-            url  = "/en/la-musique/"
+            name = "Music"
+            url  = "/en/music"
             weight = 3
       [[languages.en.menu.main]]
             identifier = "la-science"
-            name = "[EN] La science"
-            url  = "/en/la-science/"
+            name = "Science"
+            url  = "/en/science"
             weight = 4
       [[languages.en.menu.main]]
             identifier = "projets"
-            name = "[EN] Projets"
-            url  = "/en/projets/"
+            name = "Projects"
+            url  = "/en/projects"
             weight = 5
       [[languages.en.menu.main]]
             identifier = "contact"
-            name = "[EN] Contact"
-            url  = "/en/contact/"
+            name = "Contact"
+            url  = "/en/contact"
             weight = 6
 
   [languages.fr]
@@ -48,27 +48,27 @@ paginate = 10
       [[languages.fr.menu.main]]
             identifier="a-propos"
             name = "À propos"
-            url  = "/a-propos/"
+            url  = "/a-propos"
             weight = 2
       [[languages.fr.menu.main]]
             identifier = "la-musique"
             name = "La musique"
-            url  = "/fr/la-musique/"
+            url  = "/la-musique"
             weight = 3
       [[languages.fr.menu.main]]
             identifier = "la-science"
             name = "La science"
-            url  = "/fr/la-science/"
+            url  = "/la-science"
             weight = 4
       [[languages.fr.menu.main]]
             identifier = "projets"
             name = "Projets"
-            url  = "/fr/projets/"
+            url  = "/projets"
             weight = 5
       [[languages.fr.menu.main]]
             identifier = "contact"
             name = "Contact"
-            url  = "/fr/contact/"
+            url  = "/contact"
             weight = 6
 
 
