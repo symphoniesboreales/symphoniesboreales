@@ -3,4 +3,6 @@
 - id: team
   translation: "Équipe"
 - id: languageSwitch
-  translation: "English"
+  translation: "EN"
+- id: quote
+  translation: "Quand les vieilles forêts nous chantent leur histoire"
