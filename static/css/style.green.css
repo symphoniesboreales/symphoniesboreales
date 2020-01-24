@@ -496,6 +496,14 @@ ul.list-style-none {
   -moz-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
 }
+.owl-item .item h1 a {
+  color: white;
+}
+
+.owl-item .item h1 a:hover {
+  text-decoration: none;
+}
+
 .navbar-affixed-top.affix {
   position: fixed;
   width: 100%;

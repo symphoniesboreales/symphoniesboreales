@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/carousel/a-la-une.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/carousel/a-la-une.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/style.green.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.green.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/logo-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/logo-small.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/logo.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
