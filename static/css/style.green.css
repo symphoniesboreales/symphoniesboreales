@@ -444,6 +444,7 @@ ul.list-style-none {
 }
 .navbar .navbar-buttons {
   float: right;
+  font-size: 24px;
 }
 .navbar .navbar-buttons button,
 .navbar .navbar-buttons a.btn,
@@ -2848,9 +2849,15 @@ fieldset[disabled] .btn-template-primary.active {
 /* navbar */
 .navbar {
   position: relative;
-  min-height: 62px;
+  min-height: 80px;
   margin-bottom: 0;
   border-bottom: 1px solid transparent;
+}
+
+@media (max-width: 768px) {
+  .navbar-header {
+    min-height: 80px;
+  }
 }
 @media (min-width: 768px) {
   .navbar {
@@ -2958,7 +2965,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 10px 15px;
   font-size: 18px;
   line-height: 20px;
-  height: 72px;
+  height: 80px;
 }
 @media (max-width: 767px) {
  .navbar-brand {
@@ -3020,8 +3027,8 @@ fieldset[disabled] .btn-template-primary.active {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 21px;
-    padding-bottom: 26px;
+    padding-top: 28px;
+    padding-bottom: 31px;
   }
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
