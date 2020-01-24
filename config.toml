@@ -1,4 +1,4 @@
-baseurl = "http://symphonies.com"
+baseurl = "https://symphonies-boreales.web.app"
 theme = "hugo-universal-theme"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "fr"
