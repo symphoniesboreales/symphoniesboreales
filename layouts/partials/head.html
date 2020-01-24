@@ -23,18 +23,17 @@
   <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.11.2/css/all.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-  <!-- CSS animations  -->
-  <link href="{{ "css/animate.css" | relURL}}" rel="stylesheet">
-
   <!-- Theme stylesheet, if possible do not edit this stylesheet -->
-  {{ with .Site.Params.style }}
-    <link href="{{ "css/style" | relURL}}.{{ . }}.css" rel="stylesheet" id="theme-stylesheet">
-  {{ else }}
-    <link href="{{ "css/style.default.css" | relURL}}" rel="stylesheet" id="theme-stylesheet">
-  {{ end }}
+  {{ $animate := resources.Get "css/animate.css" }}
+  {{ $base := resources.Get "css/style.css" }}
+  {{ $owlCarousel := resources.Get "css/owl.carousel.css" }}
+  {{ $owlTheme := resources.Get "css/owl.theme.css" }}
 
-  <!-- Custom stylesheet - for your changes -->
-  <link href="{{ "css/custom.css" | relURL}}" rel="stylesheet">
+  {{ $style := slice $animate $base $owlCarousel $owlTheme | resources.Concat "bundle.css" | minify | fingerprint }}
+
+  <link rel="stylesheet"
+        href="{{ $style.Permalink }}"
+        integrity="{{ $style.Data.Integrity }}">
 
   <!-- Responsivity for older IE -->
   {{ `
@@ -47,10 +46,6 @@
   <!-- Favicon and Apple touch icons-->
   <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}" type="image/x-icon" />
   <link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png" | relURL }}" />
-
-  <!-- owl carousel CSS -->
-  <link href="{{ "css/owl.carousel.css" | relURL}}" rel="stylesheet">
-  <link href="{{ "css/owl.theme.css" | relURL}}" rel="stylesheet">
 
   <!-- RSS feed -->
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
