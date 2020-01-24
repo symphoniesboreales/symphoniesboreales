@@ -1,6 +1,7 @@
 +++
 title = "Projets"
 description =  "Cette description doit être changée"
+translationKey = "projects"
 +++
 
 # Origine du projet

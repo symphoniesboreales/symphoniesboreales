@@ -1,6 +1,7 @@
 +++
 title = "Music"
 description =  "Description must be edited"
+translationKey = "music"
 +++
 
 # Origine du projet

@@ -2,6 +2,7 @@
 title = "À propos"
 type = "a-propos"
 description =  "Cette description doit être changée"
+translationKey = "about"
 +++
 
 # Origine du projet

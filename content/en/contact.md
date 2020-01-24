@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 description =  "Description must be edited"
+translationKey = "contact"
 +++
 
 # Origine du projet

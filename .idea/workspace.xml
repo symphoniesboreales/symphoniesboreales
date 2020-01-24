@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/layouts/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/music.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/music.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/science.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/science.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/a-propos.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/a-propos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/la-musique.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/la-musique.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/la-science.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/la-science.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/projets.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/projets.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/fr.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/fr.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/langswitcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/langswitcher.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
