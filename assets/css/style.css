@@ -410,10 +410,6 @@ ul.list-style-none {
   color: #809167;
   text-decoration: none;
   background: none;
-  left: 2px;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
 }
 @media (max-width: 767px) {
   .navbar ul.dropdown-menu li a:hover {

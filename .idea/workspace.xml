@@ -2,14 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/carousel/a-la-une2.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/carousel/a-la-une3.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/comprendre-symphonies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/foret-boreale-vieilles-symphonies.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/front.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/front.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/carousel/a-la-une.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/carousel/a-la-une.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/carousel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/a-la-une.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/a-la-une2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/creating-a-new-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/go-is-for-lovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/hugo-is-for-lovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/linked-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/migrate-from-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/science.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/foret-boreale-vieilles-symphonies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/fr/la-science.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/comprendre-symphonies.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clients/1.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clients/2.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clients/3.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clients/4.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clients/5.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/clients/6.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/consulting.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/email.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/print.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/seo.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/uiux.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/webdesign.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testimonials/1.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testimonials/2.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testimonials/3.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testimonials/4.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testimonials/5.yaml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/carousel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/fr" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -33,18 +55,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/fr" />
+      <recent name="$PROJECT_DIR$/content/fr/science" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/layouts/a-propos" />
-      <recent name="$PROJECT_DIR$/content/fr" />
       <recent name="$PROJECT_DIR$/content/fr/a-propos" />
-      <recent name="$PROJECT_DIR$/data/apercus" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/fr" />
+      <recent name="$PROJECT_DIR$/content/en" />
+      <recent name="$PROJECT_DIR$/content/fr/la-science" />
       <recent name="$PROJECT_DIR$/data/carousel" />
       <recent name="$PROJECT_DIR$/layouts/partials" />
-      <recent name="$PROJECT_DIR$/static/img" />
-      <recent name="$PROJECT_DIR$/assets/js" />
-      <recent name="$PROJECT_DIR$/assets/css" />
     </key>
   </component>
   <component name="RunDashboard">

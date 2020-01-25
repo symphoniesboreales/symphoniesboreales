@@ -1,7 +1,9 @@
 +++
-title = "La science"
+url = "/science/foret-boreale-vieilles-symphonies"
+title = "Forêt boréale et vieilles symphonies"
+type = "page"
 description =  "Cette description doit être changée"
-translationKey = "science"
+translationKey = "foret-boreale-vieilles-symphonies"
 +++
 
 # Origine du projet

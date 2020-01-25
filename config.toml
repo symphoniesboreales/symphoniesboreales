@@ -7,6 +7,7 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 enableRobotsTXT=true
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Define the number of posts per page
 paginate = 10
@@ -31,6 +32,18 @@ paginate = 10
             name = "Science"
             url  = "/en/science"
             weight = 4
+          [[languages.en.menu.main]]
+                identifier="foret-boreale-vieilles-symphonies"
+                parent = "la-science"
+                name = "[EN] Forêt boréale et vieilles symphonies"
+                url  = "/en/science/foret-boreale-vieilles-symphonies"
+                weight = 1
+          [[languages.en.menu.main]]
+                identifier="comprendre-symphonies"
+                parent = "la-science"
+                name = "[EN] Comprendre les symphonies"
+                url  = "/en/science/comprendre-symphonies"
+                weight = 2
       [[languages.en.menu.main]]
             identifier = "projets"
             name = "Projects"
@@ -59,8 +72,20 @@ paginate = 10
       [[languages.fr.menu.main]]
             identifier = "la-science"
             name = "Science"
-            url  = "/la-science"
+            url  = "/science"
             weight = 4
+          [[languages.fr.menu.main]]
+                identifier="foret-boreale-vieilles-symphonies"
+                parent = "la-science"
+                name = "Forêt boréale et vieilles symphonies"
+                url  = "/science/foret-boreale-vieilles-symphonies"
+                weight = 1
+          [[languages.fr.menu.main]]
+                identifier="comprendre-symphonies"
+                parent = "la-science"
+                name = "Comprendre les symphonies"
+                url  = "/science/comprendre-symphonies"
+                weight = 2
       [[languages.fr.menu.main]]
             identifier = "projets"
             name = "Projets"

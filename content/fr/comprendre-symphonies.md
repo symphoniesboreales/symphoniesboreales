@@ -1,7 +1,9 @@
 +++
-title = "Science"
-description =  "Description must be edited"
-translationKey = "science"
+url =  "/science/comprendre-symphonies"
+title = "Comprendre les symphonies"
+type = "page"
+description =  "Cette description doit être changée"
+translationKey = "comprendre-symphonies"
 +++
 
 # Origine du projet
