@@ -1,3 +1,7 @@
+.btn-carousel {
+  margin-bottom: 16px;
+}
+
 .sb-logo {
   width: 230px;
   height: 56px;
@@ -265,9 +269,10 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
-  color: #eeeeee;
+  background: #809167;
+  color: #ffffff;
   padding: 10px 0;
+  font-size: 17px;
 }
 #top p {
   margin: 0;
@@ -323,6 +328,9 @@ ul.list-style-none {
 @media (max-width: 767px) {
   #top .login {
     float: left;
+  }
+  #top {
+    font-size: 14px;
   }
 }
 #top.light {
@@ -1192,7 +1200,9 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/a-la-une.jpg') center center repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1269,7 +1279,6 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .home-carousel .item h1 {
-  background-color: rgba(80, 184, 94, 0.7);
   padding: 8px 8px 0 8px;
 }
 
@@ -1819,7 +1828,7 @@ fieldset[disabled] .btn-template-primary.active {
 .bar {
   position: relative;
   background: #809167;
-  padding: 60px 0;
+  padding: 16px 0 50px 0;
 }
 .bar.background-pentagon {
   background: url('../img/texture-green.png') center center repeat;

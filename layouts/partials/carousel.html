@@ -3,37 +3,39 @@
 {{ if gt (len .Site.Data.carousel) 0 }}
 {{ if eq .Site.Language.Lang "fr" }}
 <section class="no-mb">
-    <div class="home-carousel">
-        <div class="dark-mask"></div>
-        <div class="container">
-            <div class="homepage owl-carousel">
-                {{ range sort .Site.Data.carousel "weight" }}
+    <div class="homepage owl-carousel">
+        {{ range sort .Site.Data.carousel "order" }}
+        <div class="home-carousel" style="background: url('../img/{{ .image }}') 50% repeat; background-size: cover;">
+            <div class="container">
                 <div class="item">
-                            <h1>{{ .fr.title | safeHTML}}</h1>
-                            {{ .fr.description | safeHTML }}
+                    <h1 style="background-color: rgba({{ .textBackground }});">{{ .fr.title | safeHTML}}</h1>
+                    {{ .fr.description | safeHTML }}
                 </div>
-                {{ end }}
+
             </div>
             <!-- /.project owl-slider -->
         </div>
+        {{ end }}
+    </div>
     </div>
 </section>
 {{ end }}
 {{ if eq .Site.Language.Lang "en" }}
 <section class="no-mb">
-    <div class="home-carousel">
-        <div class="dark-mask"></div>
-        <div class="container">
-            <div class="homepage owl-carousel">
-                {{ range sort .Site.Data.carousel "weight" }}
+    <div class="homepage owl-carousel">
+        {{ range sort .Site.Data.carousel "order" }}
+        <div class="home-carousel" style="background: url('../img/{{ .image }}') 50% repeat; background-size: cover;">
+            <div class="container">
                 <div class="item">
-                    <h1>{{ .en.title | safeHTML}}</h1>
+                    <h1 style="background-color: rgba({{ .textBackground }});">{{ .en.title | safeHTML}}</h1>
                     {{ .en.description | safeHTML }}
                 </div>
-                {{ end }}
+
             </div>
             <!-- /.project owl-slider -->
         </div>
+        {{ end }}
+    </div>
     </div>
 </section>
 {{ end }}
