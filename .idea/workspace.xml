@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/en/comprendre-symphonies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/en/foret-boreale-vieilles-symphonies.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/creating-a-new-theme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/go-is-for-lovers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/hugo-is-for-lovers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/linked-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/migrate-from-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/science.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/foret-boreale-vieilles-symphonies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fr/la-science.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/comprendre-symphonies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/clients/1.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/clients/2.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/clients/3.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/clients/4.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/clients/5.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/clients/6.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features/consulting.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features/email.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features/print.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features/seo.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features/uiux.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/features/webdesign.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testimonials/1.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testimonials/2.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testimonials/3.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testimonials/4.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testimonials/5.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/a-la-une.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/a-la-une.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/a-la-une2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/a-la-une2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/a-la-une3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/a-la-une3.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579664649543</updated>
       <workItem from="1579664650939" duration="21946000" />
+      <workItem from="1583630151731" duration="599000" />
+      <workItem from="1583631035638" duration="823000" />
     </task>
     <servers />
   </component>
@@ -103,7 +80,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
