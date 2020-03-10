@@ -1,5 +1,11 @@
+{{ if in .Site.Params.env "prod"}}
 User-agent: *
 Allow: /
 
 Sitemap: {{.Site.BaseURL}}/fr/sitemap.xml
 Sitemap: {{.Site.BaseURL}}/en/sitemap.xml
+{{else}}
+User-agent: *
+Disallow: /
+{{ end }}
+

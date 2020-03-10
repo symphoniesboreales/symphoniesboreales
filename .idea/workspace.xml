@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/prod/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/sharing-default.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/sharing-default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/robots.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,19 +28,19 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/content/fr" />
+      <recent name="$PROJECT_DIR$/content/en" />
+      <recent name="$PROJECT_DIR$/content/fr/la-science" />
+      <recent name="$PROJECT_DIR$/data/carousel" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/fr" />
       <recent name="$PROJECT_DIR$/content/fr/science" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/layouts/a-propos" />
       <recent name="$PROJECT_DIR$/content/fr/a-propos" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/content/fr" />
-      <recent name="$PROJECT_DIR$/content/en" />
-      <recent name="$PROJECT_DIR$/content/fr/la-science" />
-      <recent name="$PROJECT_DIR$/data/carousel" />
-      <recent name="$PROJECT_DIR$/layouts/partials" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -66,6 +68,7 @@
       <workItem from="1579664650939" duration="21946000" />
       <workItem from="1583630151731" duration="599000" />
       <workItem from="1583631035638" duration="1411000" />
+      <workItem from="1583799733485" duration="1876000" />
     </task>
     <servers />
   </component>
