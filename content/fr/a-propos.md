@@ -13,12 +13,3 @@ Symphonies boréales est un projet unissant arts et vulgarisation scientifique, 
 {{< figure src="/img/Exemple_cernes.png" class="img-responsive" caption="Cernes de croissance sur la rondelle de pied d’un sapin baumier" >}}
 
 
-# Mission
-
-Integer feugiat magna elit. Aliquam tellus lacus, placerat id dignissim sed, volutpat quis diam. Vivamus dui sem, pellentesque nec magna nec, venenatis vehicula orci. Maecenas volutpat eget risus id fermentum. Suspendisse potenti. Maecenas gravida orci ac feugiat faucibus. Phasellus malesuada maximus erat, sit amet sollicitudin tellus aliquet sit amet.
-
-<div class="row">
-<div class="col-md-7">
-{{< youtube CkKROlno0WU >}}
-</div>
-</div>
