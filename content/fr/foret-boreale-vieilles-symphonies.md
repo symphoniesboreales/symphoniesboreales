@@ -1,14 +1,14 @@
 +++
-url = "/science/La forêt boréale"
-title = "La forêt boréale"
+url = "/science/foret-boreale-vieilles-symphonies"
+title = "Forêt boréale et vieilles symphonies"
 type = "page"
 description =  "Cette description doit être changée"
-translationKey = "La forêt boréale"
+translationKey = "foret-boreale-vieilles-symphonies"
 +++
 
 # Origine du projet
 
-Lorem  dolor sit amet, consectetur adipiscing elit. Ut accumsan dictum mattis. Nam vitae lacus blandit quam vehicula pellentesque id non sapien. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan dictum mattis. Nam vitae lacus blandit quam vehicula pellentesque id non sapien. 
 
 Nulla facilisi. Sed tristique risus et ipsum laoreet lacinia. Pellentesque lacus ligula, porttitor ac ex quis, ornare laoreet turpis. Mauris ligula justo, posuere eu tempus sit amet, rhoncus nec augue. Nam lacinia neque at nulla maximus, quis scelerisque elit finibus.
 
