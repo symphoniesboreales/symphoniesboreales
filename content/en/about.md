@@ -5,13 +5,11 @@ description =  "Description must be edited"
 translationKey = "about"
 +++
 
-# Origine du projet
+# The project
 
-Symphonies boréales est un projet unissant arts et vulgarisation scientifique, basé sur la retranscription en musique de la croissance annuelle des arbres composant plusieurs dizaines de vieilles forêts boréales du Québec. Il trouve son origine dans le projet de doctorat en écologie de Maxence Martin, réalisé à l’Université du Québec à Chicoutimi (UQAC) et ayant pour sujet la diversité, la dynamique et la conservation des vieilles forêts boréales de l’Est Canadien. Ce projet a ainsi été réalisé à partir de ses données de recherche mais en parallèle de ce travail de doctorat, dans un objectif de médiation scientifique. La volonté à l’origine du projet est d’amener le grand public à une meilleur compréhension et à une meilleure sensibilisation sur le sujet des vieilles forêts boréales. Pour ce faire, Maxence Martin s’est entouré de plusieurs étudiants ou anciens étudiants de l’UQAC, afin de réaliser une œuvre interdisciplinaire singulière, associant la science à de multiples domaines artistiques. 
+Boreal Symphonies is a project that fuses arts and scientific outreach, based on the musical transcription of the annual growth of the trees that compose dozens of old-growth forests in Quebec. The project originates from Maxence Martin's doctoral thesis in ecology at the Université du Québec à Chicoutimi (UQAC) about the diversity, dynamics and conservation of old-growth boreal forests in Eastern Canada. This project was thus carried out using his research data but in parallel with this doctoral work, with the objective of scientific communication. he project's original goal was to bring the general public to a better understanding and awareness of the subject of old-growth boreal forests. To do so, Maxence Martin has surrounded himself with several students or former students of UQAC, in order to create a singular interdisciplinary work, associating science with multiple artistic fields. The members of the team are presented 
 
 {{< figure src="/img/Exemple_cernes.png" class="img-responsive" caption="Cernes de croissance sur la rondelle de pied d’un sapin baumier" >}}
-
-Nulla facilisi. Sed tristique risus et ipsum laoreet lacinia.
 
 
 # Mission
