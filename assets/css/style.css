@@ -369,6 +369,12 @@ ul.list-style-none {
     border-top-color: transparent;
   }
 }
+
+figcaption p {
+  font-size: 14px;
+  margin: 0;
+}
+
 .navbar.navbar-light ul.nav > li.active > a {
   border-top: solid 5px #3f734b;
   background: #fff !important;
@@ -2584,6 +2590,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #555555;
   padding: 50px 0;
   color: #999999;
+  margin-top: 30px;
 }
 #footer h1,
 #footer h2,
@@ -3245,7 +3252,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.42857143;
   color: #555555;
 }
@@ -3467,11 +3474,11 @@ h2,
 .h2,
 h3,
 .h3 {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 36px;
+  margin-bottom: 10px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 20px 0 10px;
 }
 .lead {
   margin-bottom: 20px;
@@ -3481,6 +3488,9 @@ p {
   .lead {
     font-size: 21px;
   }
+}
+.img-responsive {
+  margin-top: 20px;
 }
 .text-small {
   font-size: 12px;

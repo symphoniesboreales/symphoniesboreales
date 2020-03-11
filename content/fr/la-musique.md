@@ -22,12 +22,9 @@ Voici l’une des premières symphonies produites pour le projet. Il s’agit d�
 </div>
 </div>
 
-#
-#
-
 {{< figure src="/img/Photo_foret_equienne.jpg" width="500" class="img-responsive" caption="Forêt boréale équienne, où se mélange ici épinette noire et pin gris. La structure de la forêt est très simple, avec des arbres de même taille " >}}
-#
-#
+
+
 La forêt équienne est le premier stade de ce que l’on appelle la « succession forestière », c’est-à-dire les changements de composition, d’aspect et de structure que l’on observe dans les forêts au cours du temps. En l’absence d’une nouvelle perturbation de forte ampleur dans les prochaines années, ces arbres finiront par mourir progressivement pour être remplacé par de nouvelles épinettes noires et par le sapin baumier. Dans la forêt boréale du Québec, il s’agit des deux principales espèces capables de se régénérer aisément sous l’ombre d’arbres adultes. Le bouleau à papier en est, quant à lui, incapable et nécessite un plein accès à la lumière, comme on peut l’observer après un feu de forêt.
 
 # Après la forêt équienne, le stade de vieille forêt
@@ -61,4 +58,3 @@ Certains évènements peuvent néanmoins causer une mortalité bien plus signifi
 
 
 Au Québec, la tordeuse des bourgeons de l’épinette est le principal insecte défoliateur de la forêt boréale. Bien que son impact sur les forêts puisse paraître impressionnant, la mortalité qu’elle provoque se fait au bénéfice d’autres arbres. Cela peut s’entendre à la fin de la symphonie présentée ici : on entend une courte descente dans les basses suivie d’une explosion de notes aiguës. Les petits arbres viennent donc de profiter de l’espace dégagé par la mort des grands pour accroître significativement leur croissance et leur taille.
-
