@@ -77,7 +77,7 @@ paginate = 10
           [[languages.fr.menu.main]]
                 identifier="foret-boreale-vieilles-symphonies"
                 parent = "la-science"
-                name = "Forêt boréale et vieilles symphonies"
+                name = "LA forêt boréale"
                 url  = "/science/foret-boreale-vieilles-symphonies"
                 weight = 1
           [[languages.fr.menu.main]]
@@ -91,6 +91,16 @@ paginate = 10
             name = "Projets"
             url  = "/projets"
             weight = 5
+      [[languages.fr.menu.main]]
+            identifier = "contact"
+            name = "Contact"
+            url  = "/contact"
+            weight = 6
+[[languages.fr.menu.main]]
+            identifier = "equipe"
+            name = "L'Équipe"
+            url  = "/equipe"
+            weight = 7
       [[languages.fr.menu.main]]
             identifier = "contact"
             name = "Contact"
