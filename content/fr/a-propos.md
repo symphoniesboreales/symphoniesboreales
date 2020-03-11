@@ -7,9 +7,7 @@ translationKey = "about"
 
 # Origine du projet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan dictum mattis. Nam vitae lacus blandit quam vehicula pellentesque id non sapien. 
-
-Nulla facilisi. Sed tristique risus et ipsum laoreet lacinia. Pellentesque lacus ligula, porttitor ac ex quis, ornare laoreet turpis. Mauris ligula justo, posuere eu tempus sit amet, rhoncus nec augue. Nam lacinia neque at nulla maximus, quis scelerisque elit finibus.
+Symphonies boréales est un projet unissant arts et vulgarisation scientifique, basé sur la retranscription en musique de la croissance annuelle des arbres composant plusieurs dizaines de vieilles forêts boréales du Québec. Il trouve son origine dans le projet de doctorat en écologie de Maxence Martin, réalisé à l’Université du Québec à Chicoutimi (UQAC) et ayant pour sujet la diversité, la dynamique et la conservation des vieilles forêts boréales de l’Est Canadien. Ce projet a ainsi été réalisé à partir de ses données de recherche mais en parallèle de ce travail de doctorat, dans un objectif de médiation scientifique. La volonté à l’origine du projet est d’amener le grand public à une meilleur compréhension et à une meilleure sensibilisation sur le sujet des vieilles forêts boréales. Pour ce faire, Maxence Martin s’est entouré de plusieurs étudiants ou anciens étudiants de l’UQAC, afin de réaliser une œuvre interdisciplinaire singulière, associant la science à de multiples domaines artistiques. 
 
 
 {{< figure src="/img/Exemple_cernes.png" class="img-responsive" caption="Cernes de croissance sur la rondelle de pied d’un sapin baumier" >}}
