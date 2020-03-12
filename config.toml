@@ -33,10 +33,10 @@ paginate = 10
             url  = "/en/science"
             weight = 4
           [[languages.en.menu.main]]
-                identifier="foret-boreale-vieilles-symphonies"
+                identifier="foret-boreale"
                 parent = "la-science"
-                name = "[EN] Forêt boréale et vieilles symphonies"
-                url  = "/en/science/foret-boreale-vieilles-symphonies"
+                name = "[EN] La forêt boréale"
+                url  = "/en/science/foret-boreale"
                 weight = 1
           [[languages.en.menu.main]]
                 identifier="comprendre-symphonies"
@@ -75,10 +75,10 @@ paginate = 10
             url  = "/science"
             weight = 4
           [[languages.fr.menu.main]]
-                identifier="foret-boreale-vieilles-symphonies"
+                identifier="foret-boréale"
                 parent = "la-science"
-                name = "LA forêt boréale"
-                url  = "/science/foret-boreale-vieilles-symphonies"
+                name = "La forêt boréale"
+                url  = "/science/foret-boreale"
                 weight = 1
           [[languages.fr.menu.main]]
                 identifier="comprendre-symphonies"
