@@ -16,7 +16,7 @@ C’est au cours de ces travaux que lui est venu l’idée d’utiliser ses donn
 Il est actuellement stagiaire postdoctoral à l’Université du Québec à Chicoutimi et continue de diriger le projet Symphonies boréales.
 
 
-{{< figure src="/img/team-members/Photo_Maxence.jpg" width=100 class="img-responsive" >}}
+{{< figure src="/img/team-members/Photo_Maxence.jpg" width="150" height="100" class="img-thumbnail" >}}
 
 # Frédéric L. Tremblay
 
@@ -24,6 +24,7 @@ Frédéric L. Tremblay artiste interdisciplinaire né au Saguenay. Finissant à 
 
 
 {{< figure src="/img/team-members/Photo_Fred.jpg" width=100 class="img-responsive" >}}
+
 
 
 # Valentina Buttò
