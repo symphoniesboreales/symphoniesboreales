@@ -1,12 +1,13 @@
-order: 3
-name: "Le beau fred 3"
-image: "fred.png"
+order: 1
+name: "L'Équipe de Symphonies boréales"
+image: "equipe.jpg"
 social:
   twitter: https://twitter.com/BorealesBoreal
   web: http://www.uqac.ca/chairtbe/maxence-martin/
+  fb: https://www.facebook.com/symphoniesboreales/
 fr:
-  title: "Gars en arts"
-  description: "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci sed quia non numquam modi tempora eius."
+  title: " "
+  description: "Pour toute question concernant les Symphonies, vous pouvez nous contacter à : borealsymphonies@gmail.com "
 en:
   title: "Artsy dude"
   description: "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci sed quia non numquam modi tempora eius."
