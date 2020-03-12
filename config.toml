@@ -81,11 +81,23 @@ paginate = 10
                 url  = "/science/foret-boreale"
                 weight = 1
           [[languages.fr.menu.main]]
+                identifier="vieilles-forets"
+                parent = "la-science"
+                name = "Les vieilles forêts"
+                url  = "/science/vieilles-forets"
+                weight = 2
+          [[languages.fr.menu.main]]
                 identifier="comprendre-symphonies"
                 parent = "la-science"
                 name = "Comprendre les symphonies"
                 url  = "/science/comprendre-symphonies"
-                weight = 2
+                weight = 3
+          [[languages.fr.menu.main]]
+                identifier="croissance-musique"
+                parent = "la-science"
+                name = "De la croissance à la musique"
+                url  = "/science/croissance-musique"
+                weight = 4
       [[languages.fr.menu.main]]
             identifier = "projets"
             name = "Projets"
