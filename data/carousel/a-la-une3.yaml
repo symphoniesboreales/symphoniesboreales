@@ -2,9 +2,9 @@ order: 3
 image: "a-la-une3.jpg"
 textBackground: "128, 145, 103, 0.7"
 fr:
-   title: '<a href="/a-propos"">À LA UNE: <br>CONCERT ORCHESTRE SYMPHONIQUE DE SAGUENAY</a>'
+   title: '<a href="/projets"">À LA UNE: <br>CONCERT ORCHESTRE SYMPHONIQUE DE SAGUENAY</a>'
    description: >
-     <a href="/a-propos" class="btn btn-template-main btn-carousel">En savoir plus</a>
+     <a href="/projets" class="btn btn-template-main btn-carousel">En savoir plus</a>
 en:
   title: '<a href="/en/about">[EN] À LA UNE: <br>CONCERT ORCHESTRE SYMPHONIQUE DE SAGUENAY</a>'
   description: >

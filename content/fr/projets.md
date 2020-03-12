@@ -1,7 +1,7 @@
 +++
-title = "L'Équipe"
+title = "Projets"
 description =  "Cette description doit être changée"
-translationKey = "equipe"
+translationKey = "projets"
 +++
 
 # L’exposition itinérante

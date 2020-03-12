@@ -1,24 +1,52 @@
 +++
-url =  "/science/comprendre-symphonies"
 title = "Comprendre les symphonies"
-type = "page"
 description =  "Cette description doit être changée"
 translationKey = "comprendre-symphonies"
 +++
 
-Tous les ans, les arbres augmentent en circonférence en produisant du bois. Ce processus n’est toutefois pas continu en raison du cycle des saisons dans les forêts tempérées et boréales. Les arbres sont ainsi en dormance durant l’hiver, créant une discontinuité dans la formation de bois, visible sous la forme de cernes de croissance.
 
-{{< figure src="/img/Exemple_cernes.png" class="img-responsive" width=700 caption="Cernes de croissance d’un sapin baumier " >}}
-
-La quantité de bois produite annuellement par un arbre, donc la largeur du cerne de croissance, dépend de multiples facteurs. Plusieurs éléments peuvent donc négativement affecter la croissance d’un arbre. Elle sera ainsi faible si :
-- 	L’arbre devient trop vieux;
-- Les conditions climatiques de l’année sont mauvaises;
-- 	L’arbre est attaqué par un insecte (par exemple la tordeuse des bourgeons de l’épinette) ou un champignon.
-- 	La lumière est bloquée par de plus grands arbres (photosynthèse limitée);
-- 	L’arbre pousse dans un environnement inadapté;
-
-En analysant la taille des cernes de croissance d’un arbre, il est ainsi possible de reconstruire de son histoire et de la comparer avec celle d’autres arbres. Cette méthode s’appelle la dendrochronologie. Par extension, nous pouvons aussi comparer le vécu de plusieurs forêts en se basant sur ces informations.
+Symphonies boréales est avant tout le fruit d’un travail collaboratif entre plusieurs étudiants ou anciens étudiants du département des sciences fondamentales ou du département des arts et des lettres de l’Université du Québec à Chicoutimi. 
 
 
 
-{{< figure src="/img/Exemple_reprise.png" class="img-responsive" width=700 caption="Lors des premières années de sa vie (à gauche), ce sapin baumier se trouvait sous le couvert d’arbres plus grands que lui, bloquant donc son accès à la lumière et par conséquent limitant sa photosynthèse. Cette croissance est donc assez faible. Toutefois, les arbres situés au-dessus de lui sont morts l’année marquée par la flèche rouge. Désormais libre de toute compétition, il a ainsi pu augmenter sa croissance dans les années qui suivent" >}}
+# Maxence Martin
+
+Maxence Martin est l’initiateur de ce projet et le compositeur des Symphonies boréales. Il a réalisé son doctorat en écologie forestière à l’Université du Québec à Chicoutimi, Québec, Canada, entre 2014 et 2019, son sujet de thèse portant sur la diversité, la dynamique et la conservation des vieilles forêts boréales en territoire aménagé.
+C’est au cours de ces travaux que lui est venu l’idée d’utiliser ses données de recherche pour créer un projet de médiation scientifique permettant d’éduquer et de sensibiliser le grand public au sujet des vieilles forêts boréales.
+Il est actuellement stagiaire postdoctoral à l’Université du Québec à Chicoutimi et continue de diriger le projet Symphonies boréales.
+
+
+{{< figure src="/img/team-members/Photo_Maxence.jpg" width="450" height="300" class="img-thumbnail" >}}
+
+# Frédéric L. Tremblay
+
+Frédéric L. Tremblay artiste interdisciplinaire né au Saguenay. Finissant à la maîtrise en Art à l’UQAC, il concentre sa recherche dans le cinéma indépendant américain contemporain et se spécialise dans l’étude du jeu et de la direction des acteurs devant la caméra et au Théâtre. Il a aussi une pratique parallèle en installation vidéo et en photographie. Il est directeur de l'art visuel de Symphonies Boréales où il supervise la direction artistique du projet, le recrutement, la recherche de collaborateurs et la technique pour le projet.
+
+
+{{< figure src="/img/team-members/Photo_Fred.jpg" width="450" height="300" class="img-thumbnail" >}}
+
+
+
+# Valentina Buttò
+
+Valentina Buttò est doctorante en sciences de l’environnement à l 'université du Québec à Chicoutimi. Ses études portent sur la modélisation de la croissance de l’épinette noire, dont elle étudie les variations en fonction de facteurs endogènes aux arbres et des facteurs environnementaux. Quand elle ne regarde pas ces cellules du bois au microscope ou ne cherche pas des relations mathématiques, Valentina est l’aquarelliste de Symphonies boréales. Elle réalise les petits arbres qui poussent autour des mélodies depuis le début du projet.
+
+
+{{< figure src="/img/team-members/Photo_Valentina.png" width="450" height="300" class="img-thumbnail" >}}
+
+
+# Alexa Tremblay-Francoeur
+
+Alexa Tremblay-Francoeur termine un baccalauréat en arts à l’Université du Québec à Chicoutimi en 2016. Elle se spécialise par la suite en arts visuels et en animation traditionnelle, ou elle explore principalement le médium du film court. Son travail est présenté lors de divers festival de courts-métrages canadiens et internationaux depuis 2017. 
+Elle apporte son appui au projet Symphonies Boréales principalement pour l’aspect artistique du projet (graphisme, installations, projections), mais également pour communiquer l’importance de la vulgarisation scientifique vers le grand public pour ainsi mieux connaître et réapproprier son territoire.
+
+{{< figure src="/img/team-members/Photo_Alexa.png" width="450" height="300" class="img-thumbnail">}}
+
+# François Cantin
+
+François Cantin a complété un certificat en informatique à l’Université du Québec à Chicoutimi entre 2015 et 2017. Depuis il a travaillé en informatique, en montage vidéo ainsi que comme technicien pour différentes installations artistiques, où ses compétences en aides relationnelles, en soutien technique et en gestion de problèmes se font remarquer. Il fait maintenant partie du projet de Symphonies boréales en tant que technicien, dont les tâches principales sont gestionnaire et installateur.
+
+{{< figure src="/img/team-members/Photo_Francois.jpg" width="450" height="300" class="img-thumbnail">}}
+
+
+

@@ -59,7 +59,7 @@ paginate = 10
       contentDir = "content/fr"
       title = "Symphonies boréales"
       languageCode = "fr"
-      [[languages.fr.menu.main]]
+      [[languages.fr.menu.main]] 
             identifier="a-propos"
             name = "À propos"
             url  = "/a-propos"
@@ -74,30 +74,32 @@ paginate = 10
             name = "Science"
             url  = "/science"
             weight = 4
-          [[languages.fr.menu.main]]
-                identifier="foret-boréale"
+  [[languages.fr.menu.main]]
+                identifier="foret-boreale-vieilles-forets"
                 parent = "la-science"
-                name = "La forêt boréale"
-                url  = "/science/foret-boreale"
+                name = "Forêt boréale et vieilles forêts"
+                url  = "/science/foret-boreale-vieilles-forets"
                 weight = 1
-          [[languages.fr.menu.main]]
-                identifier="vieilles-forets"
+  [[languages.fr.menu.main]]
+                identifier="croissance-musique"
                 parent = "la-science"
-                name = "Les vieilles forêts"
-                url  = "/science/vieilles-forets"
+                name = "De la croissance à la musique"
+                url  = "/science/croissance-musique"
                 weight = 2
-          [[languages.fr.menu.main]]
+   [[languages.fr.menu.main]]
                 identifier="comprendre-symphonies"
                 parent = "la-science"
                 name = "Comprendre les symphonies"
                 url  = "/science/comprendre-symphonies"
                 weight = 3
-          [[languages.fr.menu.main]]
-                identifier="croissance-musique"
+
+    [[languages.fr.menu.main]]
+                identifier="recherche-scientifique"
                 parent = "la-science"
-                name = "De la croissance à la musique"
-                url  = "/science/croissance-musique"
+                name = "Symphonies boréales et recherche scientifique"
+                url  = "/science/recherche-scientifique"
                 weight = 4
+
       [[languages.fr.menu.main]]
             identifier = "projets"
             name = "Projets"
