@@ -13,48 +13,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 paginate = 10
 
 [languages]
-  [languages.en]
-      contentDir = "content/en"
-      title = "Boreal symphonies"
-      languageCode = "en"
-      [[languages.en.menu.main]]
-            identifier="a-propos"
-            name = "About"
-            url  = "/en/about"
-            weight = 2
-      [[languages.en.menu.main]]
-            identifier = "la-musique"
-            name = "Music"
-            url  = "/en/music"
-            weight = 3
-      [[languages.en.menu.main]]
-            identifier = "la-science"
-            name = "Science"
-            url  = "/en/science"
-            weight = 4
-          [[languages.en.menu.main]]
-                identifier="foret-boreale"
-                parent = "la-science"
-                name = "[EN] La forêt boréale"
-                url  = "/en/science/foret-boreale"
-                weight = 1
-          [[languages.en.menu.main]]
-                identifier="comprendre-symphonies"
-                parent = "la-science"
-                name = "[EN] Comprendre les symphonies"
-                url  = "/en/science/comprendre-symphonies"
-                weight = 2
-      [[languages.en.menu.main]]
-            identifier = "projets"
-            name = "Projects"
-            url  = "/en/projects"
-            weight = 5
-      [[languages.en.menu.main]]
-            identifier = "contact"
-            name = "Contact"
-            url  = "/en/contact"
-            weight = 6
-
   [languages.fr]
       contentDir = "content/fr"
       title = "Symphonies boréales"

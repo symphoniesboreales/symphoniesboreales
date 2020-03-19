@@ -3,6 +3,7 @@ title = "About"
 type = "a-propos"
 description =  "Description must be edited"
 translationKey = "about"
+draft = true
 +++
 
 # The project

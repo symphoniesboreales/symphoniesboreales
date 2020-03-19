@@ -2,6 +2,7 @@
 title = "Music"
 description =  "Description must be edited"
 translationKey = "music"
+draft = true
 +++
 # Les Symphonies
 

@@ -4,6 +4,7 @@ title = "[EN] La Forêt"
 type = "page"
 description =  "Cette description doit être changée"
 translationKey = "foret-boreale"
+draft = true
 +++
 
 # Origine du projet

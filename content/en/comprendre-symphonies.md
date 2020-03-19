@@ -4,6 +4,7 @@ title = "[EN] Comprendre les symphonies"
 type = "page"
 description =  "Cette description doit être changée"
 translationKey = "comprendre-symphonies"
+draft = true
 +++
 
 # Origine du projet
