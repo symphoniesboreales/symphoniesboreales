@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/img/sharing-default.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/apercus/la-musique.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/la-musique.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/apercus/la-science.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/la-science.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/apercus/projets.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/projets.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/sharing-default.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,26 +32,26 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$/content/fr" />
-      <recent name="$PROJECT_DIR$/content/en" />
-      <recent name="$PROJECT_DIR$/content/fr/la-science" />
-      <recent name="$PROJECT_DIR$/data/carousel" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/fr" />
       <recent name="$PROJECT_DIR$/content/fr/science" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/layouts/a-propos" />
       <recent name="$PROJECT_DIR$/content/fr/a-propos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/content/fr" />
+      <recent name="$PROJECT_DIR$/content/en" />
+      <recent name="$PROJECT_DIR$/content/fr/la-science" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -84,7 +84,7 @@
       <workItem from="1584123990192" duration="77000" />
       <workItem from="1584622983795" duration="4148000" />
       <workItem from="1585057143498" duration="39000" />
-      <workItem from="1586992179697" duration="51000" />
+      <workItem from="1586992179697" duration="548000" />
     </task>
     <servers />
   </component>
