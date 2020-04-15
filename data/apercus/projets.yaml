@@ -2,9 +2,7 @@ backgroundClass: "background-limewater"
 fr:
   title: "Projets"
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
-    Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
-    Ut congue libero ligula, suscipit fringilla tortor faucibus non.
+ Symphonies boréales se décline en de nombreux projets, de l’exposition itinérante jusqu’au concert symphonique en passant par un parcours pédagogique situé au sein d’une vieille forêt. Tous les détails de ces projets et de leur avancement est donné ici.
   pageLink: "/projets"
   pageLabel: "En savoir plus"
 en:
