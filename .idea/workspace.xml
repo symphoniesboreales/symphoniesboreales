@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/comprendre-symphonies.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/comprendre-symphonies.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/foret-boreale.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/foret-boreale.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/music.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/music.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/projects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fr/equipe.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/fr/equipe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apercus/la-musique.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/la-musique.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apercus/la-science.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/la-science.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/apercus/projets.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/projets.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +24,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WjYozvtzGlzvPBP0OdSzz8tR7Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -85,12 +82,19 @@
       <workItem from="1583799733485" duration="2510000" />
       <workItem from="1583937232634" duration="7071000" />
       <workItem from="1584123990192" duration="77000" />
-      <workItem from="1584622983795" duration="838000" />
+      <workItem from="1584622983795" duration="4148000" />
+      <workItem from="1585057143498" duration="39000" />
+      <workItem from="1586992179697" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../ts/app.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -104,5 +108,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
