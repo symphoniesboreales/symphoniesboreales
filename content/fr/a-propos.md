@@ -1,7 +1,7 @@
 +++
 title = "À propos"
 type = "a-propos"
-description =  "Cette description doit être changée"
+description =  "Pour comprendre l’origine et l’objectif des Symphonies boréales"
 translationKey = "about"
 +++
 

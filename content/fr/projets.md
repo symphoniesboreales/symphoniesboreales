@@ -1,6 +1,6 @@
 +++
 title = "Projets"
-description =  "Cette description doit être changée"
+description =  "Pour contacter l’équipe de Symphonies boréales"
 translationKey = "projets"
 +++
 

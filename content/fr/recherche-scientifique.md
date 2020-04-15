@@ -2,7 +2,7 @@
 url =  "/science/recherche-scientifique"
 title = "Symphonies boréales et recherche scientifique"
 type = "page"
-description =  "Cette description doit être changée"
+description =  "Découvrez ici la science à l’origine des Symphonies boréales"
 translationKey = "recherche-scientifiqu"
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "La musique"
-description =  "Cette description doit être changée"
+description =  "Pour profiter des Symphonies boréales"
 translationKey = "music"
 +++
 
