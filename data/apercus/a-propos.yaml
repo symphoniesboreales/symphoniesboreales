@@ -1,8 +1,10 @@
 backgroundClass: "background-white"
 fr:
   title: "À propos"
-  description: >
-  Symphonies boréales est un projet faisant chanter les forêts. Mais d’où est venu cette idée et comment cela se traduit-il de façon concrète ? Tout est expliqué ici.
+  description:>
+    [FR] Symphonies boréales est un projet faisant chanter les forêts.
+    Mais d’où est venu cette idée et comment cela se traduit-il de façon concrète ?
+    Ut congue libero ligula, suscipit fringilla tortor faucibus non. Tout est expliqué ici.
   pageLink: "/a-propos"
   pageLabel: "En savoir plus"
 en:
