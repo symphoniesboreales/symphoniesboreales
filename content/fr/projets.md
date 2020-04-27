@@ -32,8 +32,10 @@ C’est de cette idée folle qu’est né la collaboration entre Symphonies bor�
 
 {{< figure src="/img/Partition_classique.png" class="img-responsive" width=500 caption="Extrait de la partition d’un Symphonie boréale, adaptée pour orchestre symphonique par Yannick Plamondon et Benoît Fortier du Conservatoire de Québec" >}}
 
-Une première Symphonie boréale a ainsi été réadaptée par Yannick Plamondon et Benoît Fortier et jouée pour la première fois par l’Orchestre Symphonique du Saguenay Lac Saint-Jean le 21 mars 2020.
+Une première Symphonie boréale a ainsi été réadaptée par Yannick Plamondon et Benoît Fortier. Cette pièce devait être jouée pour la première fois par l’Orchestre Symphonique du Saguenay Lac Saint-Jean le 21 mars 2020 mais cet évènement a depuis été repoussé à une date inconnue en raison de la pandémie du Covid19.
+
 Nous espérons désormais pouvoir travailler d’ici peu à la diffusion de cette œuvre dans de nouveaux lieux ainsi qu’à l’adaptation orchestrale de nouvelles Symphonies boréales !
+
 
 
 # Les symphonies de la Vallée des fantômes
