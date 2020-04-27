@@ -2,8 +2,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: {{.Site.BaseURL}}/fr/sitemap.xml
-Sitemap: {{.Site.BaseURL}}/en/sitemap.xml
+Sitemap: {{.Site.BaseURL}}/sitemap.xml
 {{else}}
 User-agent: *
 Disallow: /
