@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd30214b-ea81-4f88-9c61-b519eff341e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/apercus/la-science.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/apercus/la-science.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/carousel.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +86,7 @@
       <workItem from="1586992179697" duration="1204000" />
       <workItem from="1587131802386" duration="34000" />
       <workItem from="1587999124703" duration="18000" />
-      <workItem from="1590582143055" duration="143000" />
+      <workItem from="1590582143055" duration="762000" />
     </task>
     <servers />
   </component>
