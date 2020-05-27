@@ -1251,21 +1251,22 @@ fieldset[disabled] .btn-template-primary.active {
     min-height: 400px;
   }
 }
-.home-carousel h1,
+.home-carousel .h1,
+.home-carousel .h1 a,
 .home-carousel h2,
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
   color: #fff;
 }
-.home-carousel h1 {
+.home-carousel .h1 {
   font-weight: 100;
   text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 0.10em;
 }
 @media (max-width: 991px) {
-  .home-carousel h1 {
+  .home-carousel .h1 {
     font-size: 36px;
   }
 }
@@ -1280,7 +1281,7 @@ fieldset[disabled] .btn-template-primary.active {
   display: inline-block;
 }
 
-.home-carousel .item h1 {
+.home-carousel .item .h1 {
   padding: 8px 8px 0 8px;
 }
 

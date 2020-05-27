@@ -8,7 +8,7 @@
         <div class="home-carousel" style="background: url('../img/{{ .image }}') 50% repeat; background-size: cover;">
             <div class="container">
                 <div class="item">
-                    <h1 style="background-color: rgba({{ .textBackground }});">{{ .fr.title | safeHTML}}</h1>
+                    <p style="background-color: rgba({{ .textBackground }});" class="h1">{{ .fr.title | safeHTML}}</p>
                     {{ .fr.description | safeHTML }}
                 </div>
 
@@ -27,7 +27,7 @@
         <div class="home-carousel" style="background: url('../img/{{ .image }}') 50% repeat; background-size: cover;">
             <div class="container">
                 <div class="item">
-                    <h1 style="background-color: rgba({{ .textBackground }});">{{ .en.title | safeHTML}}</h1>
+                    <p style="background-color: rgba({{ .textBackground }});" class="h1">{{ .en.title | safeHTML}}</p>
                     {{ .en.description | safeHTML }}
                 </div>
 
