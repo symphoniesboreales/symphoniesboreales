@@ -78,20 +78,20 @@ paginate = 10
             name = "Contact"
             url  = "/contact"
             weight = 6
-
-
+            
+            
   [languages.en]
       contentDir = "content/en"
       title = "Symphonies boréales"
       languageCode = "en"
       [[languages.en.menu.main]] 
             identifier="a-propos"
-            name = "À propos"
+            name = "About"
             url  = "/a-propos"
             weight = 2
       [[languages.en.menu.main]]
             identifier = "la-musique"
-            name = "Musique"
+            name = "Music"
             url  = "/la-musique"
             weight = 3
       [[languages.en.menu.main]]
@@ -127,17 +127,17 @@ paginate = 10
 
       [[languages.en.menu.main]]
             identifier = "projets"
-            name = "Projets"
+            name = "Projects"
             url  = "/projets"
             weight = 5
       [[languages.en.menu.main]]
             identifier = "contact"
-            name = "Contact"
+            name = "Contacts"
             url  = "/contact"
             weight = 6
 [[languages.en.menu.main]]
             identifier = "equipe"
-            name = "L'Équipe"
+            name = "The team"
             url  = "/equipe"
             weight = 7
       [[languages.en.menu.main]]
