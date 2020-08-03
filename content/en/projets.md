@@ -4,24 +4,22 @@ description =  "Pour contacter l’équipe de Symphonies boréales"
 translationKey = "projets"
 +++
 
-# L’exposition itinérante
+# The traveling exhibition
 
 Afin de mettre en avant les symphonies obtenues et d’expliquer ce qu’elles signifient, nous avons créé une exposition itinérante prenant la forme d’un parcours immersif où les spectateurs peuvent s’immerger dans l’univers des Symphonies boréales. 
 
 
-{{< figure src="/img/Exposition_panneaux_introductifs.jpg" class="img-responsive" width=500 caption="Affiches introductives à l’exposition itinérante" >}}
+{{< figure src="/img/Exposition_panneaux_introductifs.jpg" class="img-responsive" width=500 caption="Introductory posters for the traveling exhibition" >}}
 
-Cette exposition symbolise alors l’union entre arts et sciences, où les symphonies sont accompagnées d’œuvres visuelles et de textes didactiques permettant de comprendre l’histoire de ces vieilles forêts.
+In order to highlight the resulting symphonies and explain what they mean, we have created a traveling exhibition in the form of an immersive journey where spectators can immerse themselves in the world of the Boreal Symphonies. 
+
 
 {{< figure src="/img/Interieur_habitat_immersif.jpg" class="img-responsive" width=400 caption="Un travail de projection vient contribuer l’immersion dans les Symphonies boréales" >}}
 
 
-La forme de cette exposition a fortement changé au cours du temps. Elle se structure désormais autour d’un habitat immersif d’une circonférence de 5.5m/18’ accompagnée de bornes audios, de panneaux explicatifs, d’aquarelles, voire de projections. Elle a pour objectif d’être diffusé dans les lieux d’exposition artistique, les musées ou tout autre environnement visant à la diffusion des connaissances scientifiques et de l’art auprès du grand public.
-
-
-
+This exhibition then symbolizes the union between arts and sciences, where the symphonies are accompanied by visual works and didactic texts allowing us to understand the history of these old-growth forests.
 {{< figure src="/img/Plan_habitat_immersif_tronqué.png" class="img-responsive" width=500 caption="Plan 3D du prototype du nouveau format de l’exposition itinérante" >}}
-
+The form of this exhibition has changed greatly over time. It is now structured around an immersive habitat with a circumference of 5.5m/18' accompanied by audio terminals, explanatory panels, watercolors, and even projections. It aims to be displayed in places of art exhibitions, museums or any other environment aspiring to disseminate scientific knowledge and art to the general public.
 
 # Adaptation orchestrale des Symphonies boréales
 

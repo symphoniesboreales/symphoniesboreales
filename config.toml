@@ -90,39 +90,39 @@ paginate = 10
             url  = "/a-propos"
             weight = 2
       [[languages.en.menu.main]]
-            identifier = "la-musique"
+            identifier = "the-music"
             name = "Music"
-            url  = "/la-musique"
+            url  = "/the-music"
             weight = 3
       [[languages.en.menu.main]]
-            identifier = "la-science"
+            identifier = "the-science"
             name = "Science"
             url  = "/science"
             weight = 4
   [[languages.en.menu.main]]
                 identifier="foret-boreale-vieilles-forets"
-                parent = "la-science"
-                name = "Forêt boréale et vieilles forêts"
+                parent = "the-science"
+                name = "Boreal forest and old-growth forests"
                 url  = "/science/foret-boreale-vieilles-forets"
                 weight = 1
   [[languages.en.menu.main]]
                 identifier="croissance-musique"
-                parent = "la-science"
-                name = "De la croissance à la musique"
+                parent = "the-science"
+                name = "From growth to music"
                 url  = "/science/croissance-musique"
                 weight = 2
    [[languages.en.menu.main]]
                 identifier="comprendre-symphonies"
-                parent = "la-science"
-                name = "Comprendre les symphonies"
+                parent = "the-science"
+                name = "Understanding the symphonies"
                 url  = "/science/comprendre-symphonies"
                 weight = 3
 
     [[languages.en.menu.main]]
                 identifier="recherche-scientifique"
-                parent = "la-science"
-                name = "Symphonies boréales et recherche scientifique"
-                url  = "/science/recherche-scientifique"
+                parent = "the-science"
+                name = "Symphonies boréales and scientific research"
+                url  = "/science/scientific-research"
                 weight = 4
 
       [[languages.en.menu.main]]

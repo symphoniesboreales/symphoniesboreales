@@ -1,7 +1,9 @@
 +++
 title = "The music"
-description =  "Pour profiter des Symphonies boréales"
+description =  "Enjoying Symphonies boréales"
 translationKey = "music"
+url =  "/the-music"
+
 +++
 
 # Les Symphonies
