@@ -100,22 +100,22 @@ paginate = 10
             url  = "/science"
             weight = 4
   [[languages.en.menu.main]]
-                identifier="foret-boreale-vieilles-forets"
+                identifier="boreal-forest-and-old-growth-forests"
                 parent = "the-science"
                 name = "Boreal forest and old-growth forests"
-                url  = "/science/foret-boreale-vieilles-forets"
+                url  = "/science/boreal-forest-and-old-growth-forests"
                 weight = 1
   [[languages.en.menu.main]]
-                identifier="croissance-musique"
+                identifier="growth-music"
                 parent = "the-science"
                 name = "From growth to music"
-                url  = "/science/croissance-musique"
+                url  = "/science/growth-music"
                 weight = 2
    [[languages.en.menu.main]]
-                identifier="comprendre-symphonies"
+                identifier="understanding-symphonies"
                 parent = "the-science"
                 name = "Understanding the symphonies"
-                url  = "/science/comprendre-symphonies"
+                url  = "/science/understanding-symphonies"
                 weight = 3
 
     [[languages.en.menu.main]]
@@ -131,21 +131,15 @@ paginate = 10
             url  = "/projets"
             weight = 5
       [[languages.en.menu.main]]
-            identifier = "contact"
+            identifier = "contacts"
             name = "Contacts"
-            url  = "/contact"
+            url =  "/contacs"
             weight = 6
 [[languages.en.menu.main]]
-            identifier = "equipe"
+            identifier = "team"
             name = "The team"
-            url  = "/equipe"
+            url  = "/the-team"
             weight = 7
-      [[languages.en.menu.main]]
-            identifier = "contact"
-            name = "Contact"
-            url  = "/contact"
-            weight = 6
-
 
 
 # Top bar social links menu

@@ -2,6 +2,8 @@
 title = "La musique"
 description =  "Pour profiter des Symphonies boréales"
 translationKey = "music"
+url  = "/la-musique"
+
 +++
 
 # Les Symphonies

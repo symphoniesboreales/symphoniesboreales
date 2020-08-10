@@ -1,7 +1,11 @@
 +++
 title = "The team"
 description =  "L’équipe derrière les « Symphonies boréales"
+url =  "/the-team"
+type = "equipe"
 translationKey = "equipe"
+
+
 +++
 
 
@@ -41,7 +45,7 @@ Valentina Buttò is a doctoral student in environmental sciences at the l’Univ
 
 {{< figure src="/img/team-members/Photo_Alexa_min.jpg" width="450" height="300" class="img-thumbnail img-responsive">}}
 
-completed a Bachelor of Arts at the l’Université du Québec à Chicoutimi in 2016. She then specializes in visual arts and traditional animation, where she mainly explores the medium of short film. Her work has been presented at various Canadian and international short film festivals since 2017. 
+Alexa Tremblay completed a Bachelor of Arts at the l’Université du Québec à Chicoutimi in 2016. She then specializes in visual arts and traditional animation, where she mainly explores the medium of short film. Her work has been presented at various Canadian and international short film festivals since 2017. 
 She supports the Boreal Symphonies project mainly for the artistic aspect of the project (graphics, installations, projections), but also to communicate the importance of popularizing science to the general public in order to better understand and re-appropriate its territory.
 
 

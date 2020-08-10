@@ -1,6 +1,6 @@
 +++
-url =  "/science/croissance-musique"
-title = "De la croissance à la musique"
+url =  "/science/growth-music"
+title = "From growth to music"
 type = "page"
 description =  "Cette description doit être changée"
 translationKey = "croissance-musique"

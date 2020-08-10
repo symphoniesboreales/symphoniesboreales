@@ -6,12 +6,10 @@ translationKey = "projets"
 
 # The traveling exhibition
 
-Afin de mettre en avant les symphonies obtenues et d’expliquer ce qu’elles signifient, nous avons créé une exposition itinérante prenant la forme d’un parcours immersif où les spectateurs peuvent s’immerger dans l’univers des Symphonies boréales. 
+In order to highlight the resulting symphonies and explain what they mean, we have created a traveling exhibition in the form of an immersive journey where spectators can immerse themselves in the world of the Boreal Symphonies. 
 
 
 {{< figure src="/img/Exposition_panneaux_introductifs.jpg" class="img-responsive" width=500 caption="Introductory posters for the traveling exhibition" >}}
-
-In order to highlight the resulting symphonies and explain what they mean, we have created a traveling exhibition in the form of an immersive journey where spectators can immerse themselves in the world of the Boreal Symphonies. 
 
 
 {{< figure src="/img/Interieur_habitat_immersif.jpg" class="img-responsive" width=400 caption="Un travail de projection vient contribuer l’immersion dans les Symphonies boréales" >}}
@@ -21,41 +19,40 @@ This exhibition then symbolizes the union between arts and sciences, where the s
 {{< figure src="/img/Plan_habitat_immersif_tronqué.png" class="img-responsive" width=500 caption="Plan 3D du prototype du nouveau format de l’exposition itinérante" >}}
 The form of this exhibition has changed greatly over time. It is now structured around an immersive habitat with a circumference of 5.5m/18' accompanied by audio terminals, explanatory panels, watercolors, and even projections. It aims to be displayed in places of art exhibitions, museums or any other environment aspiring to disseminate scientific knowledge and art to the general public.
 
-# Adaptation orchestrale des Symphonies boréales
+# Orchestral adaptation of the Boreal Symphonies
 
-Qui, sinon un orchestre symphonique, pourrait le mieux mettre en valeur les Symphonies boréales ? 
+Who, if not a symphony orchestra, could best showcase the Boreal Symphonies? 
 
-C’est de cette idée folle qu’est né la collaboration entre Symphonies boréales, l’Orchestre symphonique du Saguenay Lac Saint-Jean ainsi que Yannick Plamondon et Benoît Fortier du Conservatoire de Québec.
-
+This crazy idea led to the collaboration between Boreal Symphonies, the Symphony Orchestra of Saguenay Lac Saint-Jean, and Yannick Plamondon and Benoît Fortier from the Quebec City Conservatory.
 
 {{< figure src="/img/Partition_classique.png" class="img-responsive" width=500 caption="Extrait de la partition d’un Symphonie boréale, adaptée pour orchestre symphonique par Yannick Plamondon et Benoît Fortier du Conservatoire de Québec" >}}
 
-Une première Symphonie boréale a ainsi été réadaptée par Yannick Plamondon et Benoît Fortier. Cette pièce devait être jouée pour la première fois par l’Orchestre Symphonique du Saguenay Lac Saint-Jean le 21 mars 2020 mais cet évènement a depuis été repoussé à une date inconnue en raison de la pandémie du Covid19.
-
-Nous espérons désormais pouvoir travailler d’ici peu à la diffusion de cette œuvre dans de nouveaux lieux ainsi qu’à l’adaptation orchestrale de nouvelles Symphonies boréales !
-
-
-
-# Les symphonies de la Vallée des fantômes
-
-La Vallée des fantômes est une forêt bien connue des randonneurs du Saguenay. Les conditions climatiques particulières de cette forêt font que durant l’hiver, les arbres se retrouvent le plus souvent habillés d’un épais manteau neigeux, formant de milliers de « fantômes ».
+Excerpt from the score of a Boreal Symphony, adapted for symphony orchestra by Yannick Plamondon and Benoît Fortier of the Quebec City Conservatory
+A first Symphonie boréale was readapted by Yannick Plamondon and Benoît Fortier. This piece was scheduled to be performed for the first time by the Symphony Orchestra of Saguenay Lac Saint-Jean on March 21, 2020, but this event has since been postponed to an unknown date due to the COVID pandemic.
 
 
 
-{{< figure src="/img/Vallee.jpeg" class="img-responsive" width=500 caption="La vallée des fantômes sous la neige" >}}
 
-De plus, la forêt de la Vallée des fantômes se trouve aussi être une vieille forêt qui n’aurait pas brûlée depuis des millénaires ! Afin de mettre en avant ce patrimoine naturel exception et d’aider les randonneurs à mieux comprendre la dynamique de cette forêt, nous travaillons actuellement avec la Sépaq pour réaliser les « Symphonies de la Vallée des fantômes ». Nous souhaitons à terme créer un parcours pédagogique permettant aux randonneurs de découvrir les symphonies obtenues au sein-même de cette vieille forêt.
+# The Symphonies of the Valley of Ghosts
 
+The Valley of Ghosts is a forest well known to hikers in the Saguenay. The particular climatic conditions of this forest mean that during the winter, the trees most often find themselves dressed in a thick blanket of snow, forming thousands of "ghosts".
 
-# Trousse pédagogique
-
-Faire découvrir les forêts boréales et l’écologie forestière au public scolaire fait partie des objectifs à l’origine des Symphonies boréales. Nous travaillons par conséquent à la réalisation d’une trousse pédagogique à destination des commissions scolaires, permettant de faire découvrir et d’expliquer les Symphonies boréales de façon ludique. 
-
-Pour une expérience encore plus complète, cette trousse pédagogique pourrait se combiner à l’exposition itinérante ainsi qu’aux Symphonies de la Vallée des fantômes, permettant aux élèves de passer de la théorie à l’expérience réelle au sein d’une véritable vieille forêt!
+{{< figure src="/img/Vallee.jpeg" class="img-responsive" width=500 caption="The valley of ghosts under the snow." >}}
 
 
-# Vers de nouvelles symphonies ?
+Moreover, the forest of the Valley of Ghosts also happens to be an old-growth forest that would not have burned for millennia! In order to highlight this exceptional natural heritage and to help hikers better understand the dynamics of this forest, we are currently working with Sépaq to create the "Symphonies of the Valley of Ghosts". Our ultimate goal is to create an educational trail allowing hikers to discover the symphonies obtained in the heart of this old forest.
 
-Si Symphonies boréales prend son origine dans les données de recherche obtenues dans les vieilles forêts du Saguenay Lac Saint-Jean au Québec, il serait possible de réaliser de nouvelles symphonies avec les données de croissance annuelle de n’importe quelle forêt.
 
-Nous travaillons donc actuellement à enrichir nos compositions afin de proposer des symphonies faisant le tour complet de la forêt boréale et, pourquoi pas, s’aventurant même au-delà !
+# Educational kit
+
+Introducing school audiences to boreal forests and forest ecology is one is among the main goals of Boreal Symphonies. Therefore, we are working on an educational kit for school boards to make them discover the Boreal Symphonies in a fun way. 
+
+For an even more complete experience, this educational kit could be combined with the traveling exhibition and the Symphonies of the Valley of Ghosts, allowing students to move from theory to real-life experience in a real old-growth forest!
+
+
+#  Towards new symphonies?
+
+If Symphonies Boreales originated from research data obtained from old-growth forests in the Saguenay Lac Saint-Jean region of Quebec, it would be possible to create new symphonies using annual growth data from any forest.
+
+We are currently working on enriching our compositions in order to offer symphonies that go all the way around the boreal forest and, why not, venture even beyond it!
+

@@ -1,8 +1,8 @@
 +++
-url  = "/science/comprendre-symphonies"
-title = "Comprendre les symphonies"
+url  = "/science/understanding-symphonies"
+title = "understanding the symphonies"
 type = "page"
-description =  "Comprendre les symphonies"
+description =  "Cette description doit être changée"
 translationKey = "comprendre-symphonies"
 +++
 
@@ -10,12 +10,13 @@ translationKey = "comprendre-symphonies"
 
 # Individual melodies
 
-To introduce the subject, here is the example of two melodies obtained from trees with two very different lives. 
+To introduce the subject, here is the example of two melodies obtained from trees with two very different lives.
 
 
 {{< figure src="/img/Photo_rondelles_zoom.jpg" width="500" class="img-responsive" caption="Comparaison de la taille des cernes de croissance d’une épinette noire de 86 ans (la plus grande) ayant poussé dans d’excellentes condition et d’une épinette noire de 272 ans (la plus petite) ayant poussé dans une tourbière" >}}
 
-Examples of a partition for a young tree born after a forest fire (left) and an older tree, born in an old-growth forest (right). 
+Exemple de mélodies obtenues pour un arbre jeune et un arbre vieux
+
 <div class="row">
 <div class="col-md-7">
 {{< youtube uJhE2lF6tn0 >}}
@@ -26,18 +27,18 @@ The first tree was born following a forest fire. Due to the absence of other tre
 The second tree is much older, the length of its melody being 162 notes, meaning 162 years. It looks as if it was born under the cover of taller trees, explaining a slow growth and low notes in its early life. However, judging by the melody going towards progressively higher notes, we can deduce that it benefited several times from the death of taller trees – and the resulting free space– to gain new heights. 
 
 
-{{< figure src="/img/Partitions_arbres_exemples.jpg" width="500" class="img-responsive" caption="A gauche: Partition de la mélodie obtenue à partir du premier arbre (86 ans). À droite: Partition de la mélodie obtenue pour le second arbre (162 ans)." >}}
+
+{{< figure src="/img/Partitions_arbres_exemples.jpg" width="500" class="img-responsive" caption="Examples of a partition for a young tree born after a forest fire (left) and an older tree, born in an old-growth forest (right)." >}}
 
 # Before the old-growth forest: The even-aged forest
 
-
 {{< figure src="/img/Foret_equienne.png" width="500" class="img-responsive" caption="Représentation schématique d’une forêt équienne" >}}
-
 
 Schematic representation of an even-aged forest.
 -The most severe natural disturbances, such as forest fire, often result in the death of all trees in the impacted forests.
 -Seeds from species adapted to such disturbances settle and germinate, soon afterward. Free from the competition, their annual growth is often higher. 
 - These newborn trees appear relatively at the same time; therefore, they are all around the same age.  We use the term ‘’even-aged’’ to name this type of forest.  This forest is not yet considered to be ‘’old-growth’’. 
+
 
 <div class="row">
 <div class="col-md-7">
@@ -47,19 +48,20 @@ Schematic representation of an even-aged forest.
 
 In this track, we can hear that all the individual melodies start in the first few seconds have mostly high notes. This shows that all the trees appeared around the same time and take advantage of the lack of competition to grow as fast as possible. It is thus an even-aged forest.
 
+
+
+
 {{< figure src="/img/Partition_foret_equienne.png" width="500" class="img-responsive" caption="Simplified sheet music of one of the symphonies obtained from an even-aged stand." >}}
 
 # Old-growth forests
 
-Schematic representation of an old-growth forest. 
 
-
-
-{{< figure src="/img/Vieille_foret_V2.png" width="500" class="img-responsive" caption="Représentation schématique d’une vieille forêt boréale" >}}
+{{< figure src="/img/Vieille_foret_V2.png" width="500" class="img-responsive" caption="Schematic representation of an old-growth forest. " >}}
 
 -In the old-growth forests, trees die alone or by small groups due to natural disturbances of low severity or simply due to aging. 
 - By dying, these old trees give room to the younger and smaller trees of the understory. Therefore, death is an intrinsic part of the dynamics of an old-growth forest. 
 -Cycles are built between the dying old trees and young trees taking their place. In the absence of severe disturbances, this cycle could theoretically last forever. 
+
 
 <div class="row">
 <div class="col-md-7">
@@ -69,15 +71,12 @@ Schematic representation of an old-growth forest.
 
 
 In these tracks, we can regularly hear flashes of higher notes. Those are in fact younger trees taking the place of one or many older trees that recently died, growing faster due to a better access to sunlight. 
-
-
-{{< figure src="/img/Part_Foret_ancienne_dynamique.jpg" width="500" class="img-responsive" caption="Représentation schématique d’une vieille forêt boréale" >}}
+{{< figure src="/img/Part_Foret_ancienne_dynamique.jpg" width="500" class="img-responsive" caption="Simplified sheet music of one of the symphonies obtained from an old-growth forest." >}}
 
 
 # A stronger and occasional natural mortality: The case of the spruce budworm outbreaks.
 
-
-{{< figure src="/img/Vieille_foret_perturbee.png" width="500" class="img-responsive" caption="Schematic representation of a recently disturbed old-growth forest. " >}}
+{{< figure src="/img/Vieille_foret_perturbee.png" width="500" class="img-responsive" caption="" >}}
 
 
 -The spruce budworm is a species of moth that appears massively in the Canadian boreal forest every 30 years or so. Its caterpillars feed off the needles of spruce and fir trees. 
@@ -91,15 +90,15 @@ In these tracks, we can regularly hear flashes of higher notes. Those are in fac
 </div>
 </div>
 
+Dans le video: exemple de symphonie obtenue pour une vieille forêt fortement perturbée par la tordeuse des bourgeons de l’épinette
 
 In these tracks, the spruce budworm outbreak of the 1970s and 1980s caused a very high mortality in the corresponding stands. Nevertheless, this wide space, cleared up in a very short period of time, allowed a strong growth of the surviving trees, audible by the explosive chorus of very high-pitched notes at the end of the tracks.
 
+# The case of paludification.
 
-# The case of paludification
+{{< figure src="/img/Part_Foret_ancienne_perturbee.png" width="500" class="img-responsive" caption="Exemple de partition obtenue pour une vieille forêt perturbée par la tordeuse des bourgeons de l’épinette. On peut très bien observer le fort déclin de croissance dû à la tordeuse peu avant 1980 et l’explosion de croissance qui s’ensuit pour les survivants" >}}
 
-{{< figure src="/img/Part_Foret_ancienne_perturbee.png" width="500" class="img-responsive" caption="Schematic representation of a paludified old-growth forest." >}}
-
-{{< figure src="/img/Foret_paludifiee_V2.png" width="500" class="img-responsive" caption="Représentation schématique d’une vieille forêt boréale paludifiée" >}}
+{{< figure src="/img/Foret_paludifiee_V2.png" width="500" class="img-responsive" caption="Schematic representation of a paludified old-growth forest." >}}
 
 -The death of trees, individually or by group, is an intrinsic part of the dynamics of old-growth forests Therefore, this mortality does not cause a decline in these forests.
 -The decline of an old-growth forest can be observed when the growth of trees is weakened by external factors, preventing younger trees to replace the older ones. This eventually leads to the gradual opening of the stand, until its complete disappearance after several centuries or millennia. 

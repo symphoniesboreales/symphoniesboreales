@@ -1,6 +1,6 @@
 +++
-url = "/science/foret-boreale-vieilles-forets"
-title = "Forêt boréale et vieilles forêts"
+url  = "/science/boreal-forest-and-old-growth-forests"
+title = "Boreal forest and Old-growth forestss"
 description =  "Old-growth forests"
 translationKey = "foret-boreale-vieilles-forets"
 +++
