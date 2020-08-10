@@ -4,8 +4,8 @@ title = "understanding the symphonies"
 type = "page"
 description =  "Cette description doit être changée"
 translationKey = "comprendre-symphonies"
-+++
 
++++
 
 
 # Individual melodies
