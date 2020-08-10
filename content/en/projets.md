@@ -12,7 +12,7 @@ In order to highlight the resulting symphonies and explain what they mean, we ha
 {{< figure src="/img/Exposition_panneaux_introductifs.jpg" class="img-responsive" width=500 caption="Introductory posters for the traveling exhibition" >}}
 
 
-{{< figure src="/img/Interieur_habitat_immersif.jpg" class="img-responsive" width=400 caption="Un travail de projection vient contribuer l’immersion dans les Symphonies boréales" >}}
+{{< figure src="/img/Interieur_habitat_immersif.jpg" class="img-responsive" width=400 caption="A projection work contributes to the immersion in the Symphonies boréales" >}}
 
 
 This exhibition then symbolizes the union between arts and sciences, where the symphonies are accompanied by visual works and didactic texts allowing us to understand the history of these old-growth forests.
