@@ -6,6 +6,6 @@ fr:
    description: >
      <a href="/a-propos" class="btn btn-template-main btn-carousel">En savoir plus</a>
 en:
-  title: '<a href="/en/about">[EN] À LA UNE: <br>CONCERT ORCHESTRE SYMPHONIQUE DE SAGUENAY</a>'
+  title: '<a href="en/a-propos">  HOT TOPIC: <br> New internet site for Symphonies boréales </a>'
   description: >
-    <a href="/en/about" class="btn btn-template-main btn-carousel">Find out more</a>
+    <a href="/en/a-propos/" class="btn btn-template-main btn-carousel">Find out more</a>
