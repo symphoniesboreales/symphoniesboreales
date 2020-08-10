@@ -6,43 +6,44 @@ description =  "Cette description doit être changée"
 translationKey = "croissance-musique"
 +++
 
-# La croissance des arbres
+# Tree growth
 
-Tous les ans, les arbres augmentent en circonférence en produisant du bois. Ce processus n’est toutefois pas continu en raison du cycle des saisons dans les forêts tempérées et boréales. Les arbres sont ainsi en dormance durant l’hiver, créant une discontinuité dans la formation de bois, visible sous la forme de cernes de croissance.
+Every year, the trees increase in circumference by producing wood. However, this process is not continuous due to the seasonal cycle in temperate and boreal forests. Trees are thus dormant during the winter, creating a discontinuity in wood formation, visible as tree-rings.
 
-{{< figure src="/img/Exemple_cernes.png" class="img-responsive" width=700 caption="Cernes de croissance d’un sapin baumier " >}}
+{{< figure src="/img/Exemple_cernes.png" class="img-responsive" width=700 caption="Growth rings of a balsam fir." >}}
 
-La quantité de bois produite annuellement par un arbre, donc la largeur du cerne de croissance, dépend de multiples facteurs. Plusieurs éléments peuvent donc négativement affecter la croissance d’un arbre. Elle sera ainsi faible si :
-- 	L’arbre devient trop vieux;
-- Les conditions climatiques de l’année sont mauvaises;
-- 	L’arbre est attaqué par un insecte (par exemple la tordeuse des bourgeons de l’épinette) ou un champignon.
-- 	La lumière est bloquée par de plus grands arbres (photosynthèse limitée);
-- 	L’arbre pousse dans un environnement inadapté;
+Each year, trees gain in size by producing wood. However, due to the cycle of seasons in the temperate and boreal forests, this growth is not continuous. During winter, trees are dormant, causing a discontinuity in the formation of wood, visible as growth rings.
 
-En analysant la taille des cernes de croissance d’un arbre, il est ainsi possible de reconstruire de son histoire et de la comparer avec celle d’autres arbres. Cette méthode s’appelle la dendrochronologie. Par extension, nous pouvons aussi comparer le vécu de plusieurs forêts en se basant sur ces informations.
+The quantity of wood produced by a tree annually, or the width of the growth ring, is determined by a multitude of factors. Many of which can have a negative impact on a tree’s growth. Growth will be lower if:
+-The tree is getting too old.
+-The weather conditions during the year are adverse. 
+-The tree is attacked by an insect (for instance the eastern spruce budworm) or a mushroom.
+-The tree is growing in an unsuitable environment. 
+- Sunlight is blocked by taller trees (reduced photosynthesis).
+
+Comparison of growth ring sizes of an 86 years old black spruce (the larger one) which grew in excellent conditions and a 272 years old black spruce (the smaller one) which grew in a bog. 
+By analyzing the size of a tree’s growth rings, it is possible to reconstruct its history and compare it with that of other trees. This technique is called dendrochronology. By extension, we can also compare the history of several forests based on this information
 
 
 
-{{< figure src="/img/Exemple_reprise.png" class="img-responsive" width=700 caption="Lors des premières années de sa vie (à gauche), ce sapin baumier se trouvait sous le couvert d’arbres plus grands que lui, bloquant donc son accès à la lumière et par conséquent limitant sa photosynthèse. Cette croissance est donc assez faible. Toutefois, les arbres situés au-dessus de lui sont morts l’année marquée par la flèche rouge. Désormais libre de toute compétition, il a ainsi pu augmenter sa croissance dans les années qui suivent" >}}
+{{< figure src="/img/Exemple_reprise.png" class="img-responsive" width=700 caption="When this fir was 20 years old (green arrow), mature trees above it died, allowing the fir to have better access to sunlight and stronger growth." >}}
 
 
 # De la croissance à la musique
 
 Afin d’obtenir nos symphonies, nous avons attribué pour chaque cerne de croissance une note de musique relative à sa largeur. Plus le cerne de croissance est fin et plus la note est grave. Au contraire, plus il est large et plus la note est aigue.
 
-{{< figure src="/img/Correspondance_cernes_notes.png" class="img-responsive" width=600 caption="Illustration de la relation entre la longueur des cernes de croissance et les notes jouées sur une section de rondelle. Plus les notes se situent haut sur la partition et plus elles sont aiguës" >}}
+{{< figure src="/img/Correspondance_cernes_notes.png" class="img-responsive" width=600 caption= "Illustration of the relationship between the growth ring’s width and the notes played on a part of the cross-section. The higher the notes are on the sheet music, the higher the sound.Each note played thus corresponds to a year of growth. This means the longer the symphony is, the older the trees that compose it" >}}
 
-En mesurant la largeur de l’ensemble des cernes de croissance d’un arbre, il devient ainsi possible d’attribuer une note à chacun de ces cernes, et par conséquent d’obtenir une mélodie propre à cet arbre.
-Chaque note jouée correspond donc à une année de croissance. Cela signifie que plus une symphonie sera longue, plus les arbres qui la compose sont vieux
+In order to create the symphonies, we assigned a music note to each growth ring relative to its width. The thinner the ring, the lower the note.  On the opposite side, the larger the ring, the higher the note. By measuring the width of all the growth rings in a tree, it is then possible to assign a note to each ring, therefore obtaining a melody specific to that tree.
 
-Chaque note jouée correspond donc à une année de croissance. Cela signifie que plus une symphonie sera longue, plus les arbres qui la compose sont vieux
+# The forests behind the sites
 
-# Les forêts derrière les symphonies
+The trees that were used to create the symphonies come from 21 old-growth forests, sampled in a 2200km2 territory southwest of Mistassini lake.
+Between 18 and 53 wood discs were sampled from these stands, totaling 756 discs. These discs come, for the most part, from black spruces, and in a smaller part, from balsam fir. 
 
-Les arbres utilisés pour produire les symphonies proviennent d’une vingtaine de vieilles forêts situées au sud-est du lac Mistassini au Québec. 
-Entre 18 et 53 rondelles de bois ont été récoltées dans ces peuplements, avec au total 756 rondelles échantillonnées. Elles proviennent pour la plupart d’épinette noire et, dans une moindre mesure, de sapin baumier.
+By measuring the width of the growth rings of each of these discs, we were able to create a melody for all the sampled trees. These 756 melodies were then gathered by stand and were synchronized. From this process, we produced 21 ‘’Symphonies’’, each depicting the annual growth from the trees composing it.
+
+{{< figure src="/img/Rondelles_arbres.png" class="img-responsive" width=600 caption="Discs of black spruces harvested in old-growth forests that were used to create the symphonies. On the top left corner: a 272 years old spruce. On the top right:  258 years old spruce. On the bottom left: 86 years old spruce. On the bottom right: 131 years old spruce. " >}}
 
 
-{{< figure src="/img/Rondelles_arbres.png" class="img-responsive" width=600 caption="Rondelles d’épinette noire échantillonnées dans les vieilles forêts utilisées pour créer les Symphonies boréales. Dans le coin supérieur gauche : épinette de 272 ans. Dans le coin supérieur droit : épinette de 258 ans. Dans le coin inférieur gauche : épinette de 86 ans. Dans le coin inférieur droit : épinette de 131 ans" >}}
-
-En mesurant la largeur des cernes de croissance de chacun de ces disques, nous avons été capables de créer une mélodie pour l’ensemble des arbres échantillonnés. Ces 756 mélodies ont ensuite été regroupées par peuplement et synchronisées. Nous avons alors produit 21 « symphonies », chacune d’entre elles retraçant musicalement la croissance des arbres composant la forêt étudiée.
