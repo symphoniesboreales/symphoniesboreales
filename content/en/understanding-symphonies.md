@@ -13,9 +13,9 @@ translationKey = "comprendre-symphonies"
 To introduce the subject, here is the example of two melodies obtained from trees with two very different lives.
 
 
-{{< figure src="/img/Photo_rondelles_zoom.jpg" width="500" class="img-responsive" caption="Comparaison de la taille des cernes de croissance d’une épinette noire de 86 ans (la plus grande) ayant poussé dans d’excellentes condition et d’une épinette noire de 272 ans (la plus petite) ayant poussé dans une tourbière" >}}
+{{< figure src="/img/Photo_rondelles_zoom.jpg" width="500" class="img-responsive" caption="Comparison of the size of the growth rings of an 86-year-old black spruce (largest) grown in excellent condition and a 272-year-old black spruce (smallest) grown in a peat land" >}}
 
-Exemple de mélodies obtenues pour un arbre jeune et un arbre vieux
+Example of melodies obtained for a young and an old tree
 
 <div class="row">
 <div class="col-md-7">
@@ -32,7 +32,7 @@ The second tree is much older, the length of its melody being 162 notes, meaning
 
 # Before the old-growth forest: The even-aged forest
 
-{{< figure src="/img/Foret_equienne.png" width="500" class="img-responsive" caption="Représentation schématique d’une forêt équienne" >}}
+{{< figure src="/img/Foret_equienne.png" width="500" class="img-responsive" caption="Schematic representation of an even-aged forest" >}}
 
 Schematic representation of an even-aged forest.
 -The most severe natural disturbances, such as forest fire, often result in the death of all trees in the impacted forests.
@@ -90,7 +90,7 @@ In these tracks, we can regularly hear flashes of higher notes. Those are in fac
 </div>
 </div>
 
-Dans le video: exemple de symphonie obtenue pour une vieille forêt fortement perturbée par la tordeuse des bourgeons de l’épinette
+In the video: example of a symphony obtained for an old forest strongly disturbed by the spruce budworm.
 
 In these tracks, the spruce budworm outbreak of the 1970s and 1980s caused a very high mortality in the corresponding stands. Nevertheless, this wide space, cleared up in a very short period of time, allowed a strong growth of the surviving trees, audible by the explosive chorus of very high-pitched notes at the end of the tracks.
 
