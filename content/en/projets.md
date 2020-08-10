@@ -16,7 +16,7 @@ In order to highlight the resulting symphonies and explain what they mean, we ha
 
 
 This exhibition then symbolizes the union between arts and sciences, where the symphonies are accompanied by visual works and didactic texts allowing us to understand the history of these old-growth forests.
-{{< figure src="/img/Plan_habitat_immersif_tronqué.png" class="img-responsive" width=500 caption="Plan 3D du prototype du nouveau format de l’exposition itinérante" >}}
+{{< figure src="/img/Plan_habitat_immersif_tronqué.png" class="img-responsive" width=500 caption="3D plan of the prototype of the new format of the travelling exhibition" >}}
 The form of this exhibition has changed greatly over time. It is now structured around an immersive habitat with a circumference of 5.5m/18' accompanied by audio terminals, explanatory panels, watercolors, and even projections. It aims to be displayed in places of art exhibitions, museums or any other environment aspiring to disseminate scientific knowledge and art to the general public.
 
 # Orchestral adaptation of the Boreal Symphonies
