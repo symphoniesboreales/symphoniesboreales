@@ -11,5 +11,5 @@ en:
   title: "About"
   description: >
     Boreal Symphonies is a project that makes the forests sing. But where did this idea come from and how does it translate into reality?
-  pageLink: "en/a-propos"
+  pageLink: "/about"
   pageLabel: "Find out more"

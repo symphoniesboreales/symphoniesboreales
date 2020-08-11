@@ -58,6 +58,6 @@ However, some events can cause much more significant mortality, such as some epi
 
 In Quebec, the spruce budworm is the main defoliating insect in the boreal forest. Although its impact on the forests may seem spectacular, the mortality it causes is to the benefit of other trees. This can be heard at the end of the symphony presented here: a brief descent into the bass followed by an explosion of high notes. The small trees have taken advantage of the space created by the death of the tall ones to significantly increase their growth and size.
 
-{{< figure src="/img/Photo_vieille_foret_perturbee.jpg" width="500" class="img-responsive" caption="As a result of the budworm epidemic, the most affected trees die, forming holes in the canopy. Fortunately, regeneration is ready to replace them." >}}
+{{< figure src="/img/Photo_vieille_foret_perturbee.jpg" width="500" class="img-responsive" caption="As a result of the budworm epidemic, the most affected trees die, forming gaps in the canopy. Fortunately, regeneration is ready to replace them." >}}
 
 

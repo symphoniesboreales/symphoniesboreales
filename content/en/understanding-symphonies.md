@@ -35,8 +35,8 @@ The second tree is much older, the length of its melody being 162 notes, meaning
 {{< figure src="/img/Foret_equienne.png" width="500" class="img-responsive" caption="Schematic representation of an even-aged forest" >}}
 
 Schematic representation of an even-aged forest.
--The most severe natural disturbances, such as forest fire, often result in the death of all trees in the impacted forests.
--Seeds from species adapted to such disturbances settle and germinate, soon afterward. Free from the competition, their annual growth is often higher. 
+- The most severe natural disturbances, such as forest fire, often result in the death of all trees in the impacted forests.
+- Seeds from species adapted to such disturbances settle and germinate, soon afterward. Free from the competition, their annual growth is often higher. 
 - These newborn trees appear relatively at the same time; therefore, they are all around the same age.  We use the term ‘’even-aged’’ to name this type of forest.  This forest is not yet considered to be ‘’old-growth’’. 
 
 
@@ -58,9 +58,9 @@ In this track, we can hear that all the individual melodies start in the first f
 
 {{< figure src="/img/Vieille_foret_V2.png" width="500" class="img-responsive" caption="Schematic representation of an old-growth forest. " >}}
 
--In the old-growth forests, trees die alone or by small groups due to natural disturbances of low severity or simply due to aging. 
+- In the old-growth forests, trees die alone or by small groups due to natural disturbances of low severity or simply due to aging. 
 - By dying, these old trees give room to the younger and smaller trees of the understory. Therefore, death is an intrinsic part of the dynamics of an old-growth forest. 
--Cycles are built between the dying old trees and young trees taking their place. In the absence of severe disturbances, this cycle could theoretically last forever. 
+- Cycles are built between the dying old trees and young trees taking their place. In the absence of severe disturbances, this cycle could theoretically last forever. 
 
 
 <div class="row">
@@ -79,8 +79,8 @@ In these tracks, we can regularly hear flashes of higher notes. Those are in fac
 {{< figure src="/img/Vieille_foret_perturbee.png" width="500" class="img-responsive" caption="" >}}
 
 
--The spruce budworm is a species of moth that appears massively in the Canadian boreal forest every 30 years or so. Its caterpillars feed off the needles of spruce and fir trees. 
--When too many caterpillars feed off tree needles in a stand for too long, the trees eventually die.  
+- The spruce budworm is a species of moth that appears massively in the Canadian boreal forest every 30 years or so. Its caterpillars feed off the needles of spruce and fir trees. 
+- When too many caterpillars feed off tree needles in a stand for too long, the trees eventually die.  
 - However, spruce budworms rarely cause the death of the entire stand. They will most likely kill off weaker trees, giving more room to their more resistant or luckier congeners. 
 
 
@@ -94,15 +94,16 @@ In the video: example of a symphony obtained for an old forest strongly disturbe
 
 In these tracks, the spruce budworm outbreak of the 1970s and 1980s caused a very high mortality in the corresponding stands. Nevertheless, this wide space, cleared up in a very short period of time, allowed a strong growth of the surviving trees, audible by the explosive chorus of very high-pitched notes at the end of the tracks.
 
+{{< figure src="/img/Part_Foret_ancienne_perturbee.png" width="500" class="img-responsive" caption="Simplified sheet music of one of the symphonies obtained from an old-growth forest significantly disturbed by a spruce budworm outbreak We can clearly see a strong growth decline caused by the budworm slightly before 1980 followed by a burst of growth." >}}
+
 # The case of paludification.
 
-{{< figure src="/img/Part_Foret_ancienne_perturbee.png" width="500" class="img-responsive" caption="Exemple de partition obtenue pour une vieille forêt perturbée par la tordeuse des bourgeons de l’épinette. On peut très bien observer le fort déclin de croissance dû à la tordeuse peu avant 1980 et l’explosion de croissance qui s’ensuit pour les survivants" >}}
 
 {{< figure src="/img/Foret_paludifiee_V2.png" width="500" class="img-responsive" caption="Schematic representation of a paludified old-growth forest." >}}
 
--The death of trees, individually or by group, is an intrinsic part of the dynamics of old-growth forests Therefore, this mortality does not cause a decline in these forests.
--The decline of an old-growth forest can be observed when the growth of trees is weakened by external factors, preventing younger trees to replace the older ones. This eventually leads to the gradual opening of the stand, until its complete disappearance after several centuries or millennia. 
--In boreal forests, this process can be seen in poor drainage conditions that, when combined with extreme weather conditions, eventually turns the soil into a peat bog. This process is called “paludification”.  In this environment, trees no longer find adequate conditions for their growth; the stand progressively declines. Only a forest fire, by burning the soil, can revive the forest’s dynamics. 
+- The death of trees, individually or by group, is an intrinsic part of the dynamics of old-growth forests Therefore, this mortality does not cause a decline in these forests.
+- The decline of an old-growth forest can be observed when the growth of trees is weakened by external factors, preventing younger trees to replace the older ones. This eventually leads to the gradual opening of the stand, until its complete disappearance after several centuries or millennia. 
+- In boreal forests, this process can be seen in poor drainage conditions that, when combined with extreme weather conditions, eventually turns the soil into a peat bog. This process is called “paludification”.  In this environment, trees no longer find adequate conditions for their growth; the stand progressively declines. Only a forest fire, by burning the soil, can revive the forest’s dynamics. 
 
 
 <div class="row">

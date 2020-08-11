@@ -2,6 +2,8 @@
 title = "Projets"
 description =  "Pour contacter l’équipe de Symphonies boréales"
 translationKey = "projets"
+url = "/projets"
+
 +++
 
 # L’exposition itinérante

@@ -6,6 +6,6 @@ fr:
    description: >
      <a href="/la-musique" class="btn btn-template-main btn-carousel">En savoir plus</a>
 en:
-  title: '<a href="/en/about">HOT TOPIC: <br>Listening to the Symphonies boréales</a>'
+  title: '<a href="/the-music">HOT TOPIC: <br>Listening to the Symphonies boréales</a>'
   description: >
     <a href="/the-music" class="btn btn-template-main btn-carousel">Find out more</a>

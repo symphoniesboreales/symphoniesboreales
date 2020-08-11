@@ -3,6 +3,8 @@ title = "À propos"
 type = "a-propos"
 description =  "Pour comprendre l’origine et l’objectif des Symphonies boréales"
 translationKey = "about"
+url  = "/a-propos"
+
 +++
 
 # Origine du projet

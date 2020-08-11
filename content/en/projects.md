@@ -1,7 +1,9 @@
 +++
-title = "Projets"
+title = "Projects"
 description =  "Pour contacter l’équipe de Symphonies boréales"
 translationKey = "projets"
+url  = "/projects"
+
 +++
 
 # The traveling exhibition
@@ -25,9 +27,8 @@ Who, if not a symphony orchestra, could best showcase the Boreal Symphonies?
 
 This crazy idea led to the collaboration between Boreal Symphonies, the Symphony Orchestra of Saguenay Lac Saint-Jean, and Yannick Plamondon and Benoît Fortier from the Quebec City Conservatory.
 
-{{< figure src="/img/Partition_classique.png" class="img-responsive" width=500 caption="Extrait de la partition d’un Symphonie boréale, adaptée pour orchestre symphonique par Yannick Plamondon et Benoît Fortier du Conservatoire de Québec" >}}
+{{< figure src="/img/Partition_classique.png" class="img-responsive" width=500 caption="Excerpt from the score of a Boreal Symphony, adapted for symphony orchestra by Yannick Plamondon and Benoît Fortier of the Quebec City Conservatory. " >}}
 
-Excerpt from the score of a Boreal Symphony, adapted for symphony orchestra by Yannick Plamondon and Benoît Fortier of the Quebec City Conservatory
 A first Symphonie boréale was readapted by Yannick Plamondon and Benoît Fortier. This piece was scheduled to be performed for the first time by the Symphony Orchestra of Saguenay Lac Saint-Jean on March 21, 2020, but this event has since been postponed to an unknown date due to the COVID pandemic.
 
 
