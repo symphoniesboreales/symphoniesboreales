@@ -8,8 +8,7 @@ fr:
 en:
   title: "Science"
   description: >
-    [EN] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
-    Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
-    Ut congue libero ligula, suscipit fringilla tortor faucibus non.
-  pageLink: "/en/science"
+   The Boreal Symphonies trace the history of the corresponding forests over the last few centuries. 
+   To achieve this, it was necessary to follow a process closely related to the sciences of forest ecology.
+  pageLink: "/science/foret-boreale-vieilles-forets/"
   pageLabel: "Find out more"

@@ -10,8 +10,6 @@ fr:
 en:
   title: "About"
   description: >
-    [EN]  Lorems ipppipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
-    Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
-    Ut congue libero ligula, suscipit fringilla tortor faucibus non.
-  pageLink: "/en/about"
+    Boreal Symphonies is a project that makes the forests sing. But where did this idea come from and how does it translate into reality?
+  pageLink: "/about"
   pageLabel: "Find out more"

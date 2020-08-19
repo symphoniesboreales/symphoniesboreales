@@ -78,9 +78,68 @@ paginate = 10
             name = "Contact"
             url  = "/contact"
             weight = 6
+            
+            
+  [languages.en]
+      contentDir = "content/en"
+      title = "Symphonies boréales"
+      languageCode = "en"
+      [[languages.en.menu.main]] 
+            identifier="about"
+            name = "About"
+            url  = "/about"
+            weight = 2
+      [[languages.en.menu.main]]
+            identifier = "the-music"
+            name = "Music"
+            url  = "/the-music"
+            weight = 3
+      [[languages.en.menu.main]]
+            identifier = "the-science"
+            name = "Science"
+            url  = "/science"
+            weight = 4
+  [[languages.en.menu.main]]
+                identifier="boreal-forest-and-old-growth-forests"
+                parent = "the-science"
+                name = "Boreal forest and old-growth forests"
+                url  = "/science/boreal-forest-and-old-growth-forests"
+                weight = 1
+  [[languages.en.menu.main]]
+                identifier="growth-music"
+                parent = "the-science"
+                name = "From growth to music"
+                url  = "/science/growth-music"
+                weight = 2
+   [[languages.en.menu.main]]
+                identifier="understanding-symphonies"
+                parent = "the-science"
+                name = "Understanding the symphonies"
+                url  = "/science/understanding-symphonies"
+                weight = 3
 
+    [[languages.en.menu.main]]
+                identifier="recherche-scientifique"
+                parent = "the-science"
+                name = "Symphonies boréales and scientific research"
+                url  = "/science/scientific-research"
+                weight = 4
 
-
+      [[languages.en.menu.main]]
+            identifier = "projets"
+            name = "Projects"
+            url  = "/projects"
+            weight = 5
+      [[languages.en.menu.main]]
+            identifier = "contacts"
+            name = "Contacts"
+            url =  "/contacs"
+            weight = 6
+[[languages.en.menu.main]]
+            identifier = "team"
+            name = "The team"
+            url  = "/the-team"
+            weight = 7
 
 
 # Top bar social links menu

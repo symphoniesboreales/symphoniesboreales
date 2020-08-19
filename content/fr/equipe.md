@@ -2,6 +2,8 @@
 title = "L'Équipe"
 description =  "L’équipe derrière les « Symphonies boréales"
 translationKey = "equipe"
+type = "equipe"
+
 +++
 
 

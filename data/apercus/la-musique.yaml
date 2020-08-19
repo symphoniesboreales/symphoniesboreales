@@ -8,8 +8,6 @@ fr:
 en:
   title: "Music"
   description: >
-    [EN] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fermentum massa in urna lacinia eleifend.
-    Cras ultricies mollis eleifend. Donec vitae purus eu lorem pellentesque iaculis.
-    Ut congue libero ligula, suscipit fringilla tortor faucibus non.
-  pageLink: "/en/music"
+    Boreal Symphonies is first and foremost about music. Click here to enjoy the melodies sung by old-growth forests.
+  pageLink: "/the-music"
   pageLabel: "Find out more"
