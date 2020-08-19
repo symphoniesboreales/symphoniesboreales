@@ -2,7 +2,6 @@
 title = "The team"
 description =  "L’équipe derrière les « Symphonies boréales"
 url =  "/the-team"
-type = "equipe"
 translationKey = "equipe"
 
 
