@@ -1,5 +1,5 @@
 +++
-title = "Accueil"
-description =  "Symphonies boréales: Quand les vielles forêts nous chantent leur histoire. Projet de doctorat Maxence Martin."
+title = "Home"
+description =  "Boreal Symphonies is a project that fuses arts and scientific outreach, based on the musical transcription of the annual growth of the trees that compose dozens of old-growth forests in Quebec"
 translationKey = "home"
 +++
