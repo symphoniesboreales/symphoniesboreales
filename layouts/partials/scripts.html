@@ -11,5 +11,5 @@
 {{ $scripts := slice $front $owlCarousel | resources.Concat "scripts.js" | minify | fingerprint }}
 
 
-<script src="{{ $scripts.Permalink }}"></script>
+<script src="{{ $scripts.RelPermalink }}"></script>
 
