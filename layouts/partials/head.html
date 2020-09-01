@@ -38,7 +38,7 @@
   {{ $style := slice $animate $base $owlCarousel $owlTheme | resources.Concat "bundle.css" | minify | fingerprint }}
 
   <link rel="stylesheet"
-        href="{{ $style.Permalink }}"
+        href="{{ $style.RelPermalink }}"
         integrity="{{ $style.Data.Integrity }}">
 
   <!-- Responsivity for older IE -->

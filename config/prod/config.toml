@@ -1,3 +1,10 @@
 googleAnalytics = "UA-160148838-1"
 [params]
     env="prod"
+[languages]
+  [languages.fr]
+    baseURL = "https://www.symphoniesboreales.com"
+    weight = 2
+  [languages.en]
+    baseURL = "https://www.borealsymphonies.com"
+    weight = 1
