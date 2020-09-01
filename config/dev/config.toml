@@ -1,5 +1,7 @@
 [languages]
   [languages.fr]
     baseURL = "https://symphoniesboreales-dev.netlify.app"
+    weight = 2
   [languages.en]
     baseURL = "https://symphoniesboreales-dev-en.netlify.app"
+    weight = 1
