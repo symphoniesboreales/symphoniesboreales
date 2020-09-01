@@ -1,5 +1,5 @@
 [languages]
-  [languages.en]
-    baseURL = "https://symphoniesboreales-dev-en.netlify.app"
   [languages.fr]
     baseURL = "https://symphoniesboreales-dev.netlify.app"
+  [languages.en]
+    baseURL = "https://symphoniesboreales-dev-en.netlify.app"
