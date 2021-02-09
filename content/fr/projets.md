@@ -1,6 +1,6 @@
 +++
 title = "Projets"
-description =  "Pour contacter l’équipe de Symphonies boréales"
+description =  "Pour contacter l’équipe de Symphonies Boréales"
 translationKey = "projets"
 url = "/projets"
 

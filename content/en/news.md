@@ -9,7 +9,7 @@ translationKey = "actualites"
 
 # Our travelling exhibition: an update 
 
-L’équipe de symphonie boréale est heureuse d’annoncer que son exposition itinérante est construite, opérationnelle et prête à faire chanter nos vieilles forêts partout au Canada! L’exposition voyagera l’année prochaine dans deux galeries en Abitibi-Témiscamingue , mais mais nous planifions présentement une relance de l’exposition pour l’année 2021, restez à l’affut!
+L’équipe de symphonies boréales est heureuse d’annoncer que son exposition itinérante est construite, opérationnelle et prête à faire chanter nos vieilles forêts partout au Canada! L’exposition voyagera l’année prochaine dans deux galeries en Abitibi-Témiscamingue , mais mais nous planifions présentement une relance de l’exposition pour l’année 2021, restez à l’affut!
 
 We are glad to announce that our travelling exhibition is ready to make the old-growth forests singing everywhere in Canada. The exhibition will travel the next year in two galleries in Abitibi-Temiscamingue, but we are scheduling new events for the year 2021. Stay tuned! 
 
