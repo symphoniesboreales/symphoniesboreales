@@ -2,10 +2,10 @@ order: 3
 image: "a-la-une3.jpg"
 textBackground: "128, 145, 103, 0.7"
 fr:
-   title: '<a href="/projets"">À LA UNE: <br>un aperçu de notre exposition itinérante</a>'
+   title: '<a href="/actualites"">À LA UNE: <br>un aperçu de notre exposition itinérante</a>'
    description: >
-     <a href="/projets" class="btn btn-template-main btn-carousel">En savoir plus</a>
+     <a href="/actualites" class="btn btn-template-main btn-carousel">En savoir plus</a>
 en:
-  title: '<a href="/projects">HOT TOPIC: <br>An overview on our travelling exhibition</a>'
+  title: '<a href="/news">HOT TOPIC: <br>An overview on our travelling exhibition</a>'
   description: >
-    <a href="/projects" class="btn btn-template-main btn-carousel">Find out more</a>
+    <a href="/news" class="btn btn-template-main btn-carousel">Find out more</a>

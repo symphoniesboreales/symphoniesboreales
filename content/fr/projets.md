@@ -6,6 +6,9 @@ url = "/projets"
 
 +++
 
+
+
+
 # L’exposition itinérante
 
 Afin de mettre en avant les symphonies obtenues et d’expliquer ce qu’elles signifient, nous avons créé une exposition itinérante prenant la forme d’un parcours immersif où les spectateurs peuvent s’immerger dans l’univers des Symphonies boréales. 
