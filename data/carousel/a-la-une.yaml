@@ -2,10 +2,10 @@ order: 1
 image: "a-la-une.jpg"
 textBackground: "128, 145, 103, 0.7"
 fr:
-   title: '<a href="/a-propos"">À LA UNE: Symphonies boréales lance son site internet! </a>'
+   title: '<a href="/actualites"">À LA UNE: la pandémie ne nous arrête pas!</a>'
    description: >
-     <a href="/a-propos" class="btn btn-template-main btn-carousel">En savoir plus</a>
+     <a href="/actualites" class="btn btn-template-main btn-carousel">En savoir plus</a>
 en:
-  title: '<a href="/about">  HOT TOPIC: <br> New internet site for Symphonies boréales </a>'
+  title: '<a href="/news">  HOT TOPIC: <br> The COVID outbreak will not stop us! </a>'
   description: >
-    <a href="/about" class="btn btn-template-main btn-carousel">Find out more</a>
+    <a href="/news" class="btn btn-template-main btn-carousel">Find out more</a>

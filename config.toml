@@ -79,6 +79,12 @@ paginate = 10
             url  = "/contact"
             weight = 6
             
+                  [[languages.fr.menu.main]]
+            identifier = "Actualités"
+            name = "Actualités"
+            url  = "/actualites"
+            weight = 8
+            
             
   [languages.en]
       contentDir = "content/en"
@@ -140,6 +146,12 @@ paginate = 10
             name = "The team"
             url  = "/the-team"
             weight = 7
+            
+[[languages.en.menu.main]]
+            identifier = "News"
+            name = "News"
+            url  = "/news"
+            weight = 8
 
 
 # Top bar social links menu
