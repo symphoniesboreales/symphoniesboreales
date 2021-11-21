@@ -2,13 +2,12 @@ backgroundClass: "background-white"
 fr:
   title: "La science"
   description: >
-    Les Symphonies boréales permettent de retracer l’histoire des forêts correspondantes au cours des derniers siècles. Pour arriver à ce résultat, il a été nécessaire de suivre un processus lié étroitement aux sciences de l’écologie forestière. L’explication de cette démarche et du contexte écologique dans lequel se situe Symphonies boréales est donc détaillé ici.
+    La science : Les symphonies boréales permettent de retracer par la musique l’histoire des forêts correspondantes au cours des derniers siècles. Pour arriver à ce résultat, il fut nécessaire de suivre un processus rigoureux lié étroitement aux sciences de l’écologie forestière. L’explication de cette démarche et du contexte écologique dans lequel se situe Symphonies boréales est détaillé ici.
   pageLink: "/science/foret-boreale-vieilles-forets"
   pageLabel: "En savoir plus"
 en:
   title: "Science"
   description: >
-   The Boreal Symphonies trace the history of the corresponding forests over the last few centuries. 
-   To achieve this, it was necessary to follow a process closely related to the sciences of forest ecology.
+   The boreal symphonies trace the history of the corresponding forests over the last few centuries. To achieve this, it was necessary to follow a process closely related to the sciences of forest ecology.
   pageLink: "/science/foret-boreale-vieilles-forets/"
   pageLabel: "Find out more"

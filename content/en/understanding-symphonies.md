@@ -13,9 +13,9 @@ translationKey = "comprendre-symphonies"
 To introduce the subject, here is the example of two melodies obtained from trees with two very different lives.
 
 
-{{< figure src="/img/Photo_rondelles_zoom.jpg" width="500" class="img-responsive" caption="Comparison of the size of the growth rings of an 86-year-old black spruce (largest) grown in excellent condition and a 272-year-old black spruce (smallest) grown in a peat land" >}}
+{{< figure src="/img/Photo_rondelles_zoom.jpg" width="500" class="img-responsive" caption="Comparison of the size of the growth rings of an 86-year-old black spruce (largest) grown in excellent condition and a 272-year-old black spruce (smallest) grown in a peat land." >}}
 
-Example of melodies obtained for a young and an old tree
+Example of melodies obtained for a young and an old tree.
 
 <div class="row">
 <div class="col-md-7">
@@ -28,11 +28,11 @@ The second tree is much older, the length of its melody being 162 notes, meaning
 
 
 
-{{< figure src="/img/Partitions_arbres_exemples.jpg" width="500" class="img-responsive" caption="Examples of a partition for a young tree born after a forest fire (left) and an older tree, born in an old-growth forest (right)." >}}
+{{< figure src="/img/Partitions_arbres_exemples.jpg" width="500" class="img-responsive" caption="Examples of a partition for a young tree born after a forest fire (left) and an older tree, born in an old-growth forest (right).  " >}}
 
 # Before the old-growth forest: The even-aged forest
 
-{{< figure src="/img/Foret_equienne.png" width="500" class="img-responsive" caption="Schematic representation of an even-aged forest" >}}
+{{< figure src="/img/Foret_equienne.png" width="500" class="img-responsive" caption="Schematic representation of an even-aged forest." >}}
 
 Schematic representation of an even-aged forest.
 - The most severe natural disturbances, such as forest fire, often result in the death of all trees in the impacted forests.
@@ -46,7 +46,7 @@ Schematic representation of an even-aged forest.
 </div>
 </div>
 
-In this track, we can hear that all the individual melodies start in the first few seconds have mostly high notes. This shows that all the trees appeared around the same time and take advantage of the lack of competition to grow as fast as possible. It is thus an even-aged forest.
+In these tracks, we can hear that all the individual melodies start in the first few seconds have mostly high notes. This shows that all the trees appeared around the same time and take advantage of the lack of competition to grow as fast as possible. It is thus an even-aged forest.
 
 
 
@@ -58,9 +58,9 @@ In this track, we can hear that all the individual melodies start in the first f
 
 {{< figure src="/img/Vieille_foret_V2.png" width="500" class="img-responsive" caption="Schematic representation of an old-growth forest. " >}}
 
-- In the old-growth forests, trees die alone or by small groups due to natural disturbances of low severity or simply due to aging. 
-- By dying, these old trees give room to the younger and smaller trees of the understory. Therefore, death is an intrinsic part of the dynamics of an old-growth forest. 
-- Cycles are built between the dying old trees and young trees taking their place. In the absence of severe disturbances, this cycle could theoretically last forever. 
+In the old-growth forests, trees die alone or by small groups due to natural disturbances of low severity or simply due to aging. 
+By dying, these old trees give room to the younger and smaller trees of the understory. Therefore, death is an intrinsic part of the dynamics of an old-growth forest. 
+Cycles are built between the dying old trees and young trees taking their place. In the absence of severe disturbances, this cycle could theoretically last forever. 
 
 
 <div class="row">
@@ -79,9 +79,7 @@ In these tracks, we can regularly hear flashes of higher notes. Those are in fac
 {{< figure src="/img/Vieille_foret_perturbee.png" width="500" class="img-responsive" caption="" >}}
 
 
-- The spruce budworm is a species of moth that appears massively in the Canadian boreal forest every 30 years or so. Its caterpillars feed off the needles of spruce and fir trees. 
-- When too many caterpillars feed off tree needles in a stand for too long, the trees eventually die.  
-- However, spruce budworms rarely cause the death of the entire stand. They will most likely kill off weaker trees, giving more room to their more resistant or luckier congeners. 
+The spruce budworm is a species of moth that appears massively in the Canadian boreal forest every 30 years or so. Its caterpillars feed off the needles of spruce and fir trees. When too many caterpillars feed off tree needles in a stand for too long, the trees eventually die. However, spruce budworms rarely cause the death of the entire stand. They will most likely kill off weaker trees, giving more room to their more resistant or luckier congeners. 
 
 
 <div class="row">

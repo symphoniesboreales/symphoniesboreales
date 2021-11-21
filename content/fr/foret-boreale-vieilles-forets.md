@@ -18,13 +18,13 @@ Ces écosystèmes couvrent une superficie de 270 millions d’hectares au Canada
 {{< figure src="/img/Pessiere_capture.jpg" class="img-responsive" width=400 caption="Vieille forêt d’épinette noire " >}}
 
 
-Au Canada, l’épinette noire est l’espèce d’arbre dominante dans la forêt boréale canadienne. On y trouve néanmoins d’autres espèces, tels le sapin baumier ou le bouleau à papier.
+L’épinette noire est l’espèce d’arbre dominante dans la forêt boréale canadienne. On y trouve néanmoins d’autres espèces, tels le sapin baumier ou le bouleau à papier.
 
-{{< figure src="/img/Aquarelles_arbres.jpg" class="img-responsive" width=400 caption="Vieille forêt d’épinette noire " >}}
+{{< figure src="/img/Aquarelles_arbres.jpg" class="img-responsive" width=400 caption="Aquarelle d’essences d’arbres boréaux. De droite à gauche : épinette noire, sapin baumier, bouleau à papier." >}}
 
 # Les vieilles forêts
 
-{{< figure src="/img/Photos_VF_Alexa_second_half.png" class="img-responsive" width=600 caption="Exemple de vieilles forêts boréales au Québec " >}}
+{{< figure src="/img/Photos_VF_Alexa_second_half.png" class="img-responsive" width=600 caption="Exemple de vieilles forêts boréales au Québec." >}}
 
 Une vieille forêt est une forêt où coexistent plusieurs générations d’arbres, avec une dynamique de mortalité et de régénération quasi-continue.
 Ainsi, l’âge des arbres n’est pas le facteur définissant les vieilles forêts, bien que ces peuplements contiennent dans la majorité des cas de vieux individus.
@@ -33,7 +33,7 @@ Ces forêts sont naturellement abondantes dans les paysages naturels, y compris 
 Cette érosion des vieilles forêts boréales pose d’important problèmes de biodiversité. Intégrer les vieilles forêts boréales dans les territoires exploités par l’homme est donc l’un des grands défis de l’aménagement forestier.
 
 
-{{< figure src="/img/Photos_VF_Alexa_first_half.png" class="img-responsive" width=600 caption="Exemple de vieilles forêts boréales au Québec " >}}
+{{< figure src="/img/Photos_VF_Alexa_first_half.png" class="img-responsive" width=600 caption="Exemple de vieilles forêts boréales au Québec." >}}
 
 
 

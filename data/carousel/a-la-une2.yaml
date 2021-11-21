@@ -2,10 +2,10 @@ order: 2
 image: "a-la-une2.jpg"
 textBackground: "128, 145, 103, 0.7"
 fr:
-   title: '<a href="/la-musique">À LA UNE: <br>Pour écouter les Symphonies boréales</a>'
+   title: '<a href="/la-musique"> Pour écouter les Symphonies boréales</a>'
    description: >
      <a href="/la-musique" class="btn btn-template-main btn-carousel">En savoir plus</a>
 en:
-  title: '<a href="/the-music">HOT TOPIC: <br>Listening to the Symphonies boréales</a>'
+  title: '<a href="/the-music"> Listening to the Symphonies boréales</a>'
   description: >
     <a href="/the-music" class="btn btn-template-main btn-carousel">Find out more</a>

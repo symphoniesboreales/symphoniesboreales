@@ -8,7 +8,7 @@ url =  "/the-music"
 
 # The Symphonies
 
-The Boreal Symphonies are based on tree-ring growth data from dozens of old boreal forests in Quebec. These data are used in research to reconstruct the history and dynamics of forest stands over the centuries. Their transcription into music, where the pitch of the notes depends on the importance of the tree's annual growth, makes it possible to reconstruct the life of these forests up to the 1700s!
+The Boreal Symphonies are based on tree-ring growth data from dozens of old boreal old-growth forests in Quebec. These data are used in research to reconstruct the history and dynamics of forest stands over the centuries. Their transcription into music, where the pitch of the notes depends on the importance of the tree's annual growth, makes it possible to reconstruct the life of these forests up to the 1700s!
 
 
 {{< figure src="/img/Photo_foret_boreale.jpg" width="500" class="img-responsive" caption="A black spruce stand" >}}
@@ -38,14 +38,12 @@ The even-aged forest is the first stage of what we name "forest succession", i.e
 </div>
 </div>
 
-The boreal symphonies are mostly produced from what we call "old-growth forests" or "ancient forests". These different names describe forests where several generations of trees of different ages and sizes live together. It is towards this type of forest that even-aged stands - i.e. stands of the same age - naturally evolve over time, hence the use of the qualifiers "old" or "ancient".
-When one or more dominant trees die in these forests, they leave space for the smaller trees below them, which can then take their place. The result is a more complex symphony than in even-aged forests, where generally mid-range notes are mixed with short, high-pitched flashes revealing this small-scale mortality/regeneration process.
+The boreal symphonies are mostly produced from what we call “old-growth forests” or “ancient forests”.   These different names describe forests where several generations of trees of different ages and sizes live together. It is towards this type of forest that even-aged stands - i.e. stands of the same age - naturally evolve over time, hence the use of the qualifiers “old  ” or “ancient”. When one or more dominant trees die in these forests, they leave space for the smaller trees below them, which can then take their place. The result is a more complex symphony than in the even-aged forests’s, where generally mid-range notes are mixed with short, high-pitched flashes revealing this small-scale mortality/regeneration process.
+
+{{< figure src="/img/Photo_vieille_foret.jpg" width="500"  class="img-responsive" caption="Old black spruce forest, stand structure becomes more complex, with trees of all sizes and ages." >}}
 
 
-{{< figure src="/img/Photo_vieille_foret.jpg" width="500"  class="img-responsive" caption="Old black spruce forest, stand structure becomes more complex, with trees of all sizes and ages" >}}
-
-
-# Old-growth forest life, anything but placid
+# Life of an oOld-growth forest, life, anything but placid
 <div class="row">
 <div class="col-md-7">
 {{< youtube oo49Jbcdhz4 >}}
@@ -54,10 +52,11 @@ When one or more dominant trees die in these forests, they leave space for the s
 
 The periodic replacement of trees that have died alone or in groups by new and younger trees is the ecological process that defines old-growth forests. These mortality phases are usually subtle, where a single large tree dies of old age and creates a small gap in the canopy.
 
-However, some events can cause much more significant mortality, such as some epidemics of defoliating insects. By killing a large proportion of the canopy, such disturbances significantly change stand dynamics. In most cases, this allows the majority of small trees, which were previously under the shade of the larger ones, to significantly increase their growth, almost at the same time to take their place.
+However, some events can cause much more significant mortality, such as some epidemics of defoliating insects. By killing a large proportion of the canopy, such disturbances significantly change stand dynamics. In most cases, this allows the majority of small trees, which were previously under the shade of the larger ones, to significantly increase their growth, almost taking their place at the same time. to take their place.
 
 In Quebec, the spruce budworm is the main defoliating insect in the boreal forest. Although its impact on the forests may seem spectacular, the mortality it causes is to the benefit of other trees. This can be heard at the end of the symphony presented here: a brief descent into the bass followed by an explosion of high notes. The small trees have taken advantage of the space created by the death of the tall ones to significantly increase their growth and size.
 
-{{< figure src="/img/Photo_vieille_foret_perturbee.jpg" width="500" class="img-responsive" caption="As a result of the budworm epidemic, the most affected trees die, forming gaps in the canopy. Fortunately, regeneration is ready to replace them." >}}
+
+{{< figure src="/img/Photo_vieille_foret_perturbee.jpg" width="500" class="img-responsive" caption="As a result of the budworm outbreak, the most affected trees die. Gaps are created in the canopy, which will be quickly filled by the regeneration that was previously waiting in the understory, forming gaps in the canopy. Fortunately, regeneration is ready to replace them." >}}
 
 

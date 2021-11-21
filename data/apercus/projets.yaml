@@ -2,12 +2,12 @@ backgroundClass: "background-limewater"
 fr:
   title: "Projets"
   description: >
-     Symphonies boréales se décline en de nombreux projets, de l’exposition itinérante jusqu’au concert symphonique en passant par un parcours pédagogique situé au sein d’une vieille forêt. Tous les détails de ces projets et de leur avancement est donné ici.
+    Explorez ici les différents modules du projet et leurs développements respectifs.
   pageLink: "/projets"
   pageLabel: "En savoir plus"
 en:
   title: "Projects"
   description: >
-    Boreal Symphonies consists of numerous projects, going from a traveling exhibition to a symphony concert and an educational trail in an old-growth forest
+    Boreal Symphonies consists of numerous projects, going from a traveling exhibition to a symphony concert and an educational trail in an old-growth forest. 
   pageLink: "/projects"
   pageLabel: "Find out more"
