@@ -8,7 +8,9 @@ translationKey = "actualites"
 
 
 
+{{< embed-pdf url="/img/SB_PageTestSiteWeb_V1.pdf" >}}
 
+{{< embed-pdf url="/img/SB_PageTestSiteWeb_V1.pdf" hidePaginator="true" >}}
 
 # L’exposition itinérante: mise à jour
 
