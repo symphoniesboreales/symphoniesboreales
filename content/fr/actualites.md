@@ -12,7 +12,7 @@ translationKey = "actualites"
 
 {{< embed-pdf url="/img/SB_PageTestSiteWeb_V1.pdf" hidePaginator="true" >}}
 
-# L’exposition itinérante: mise à jour
+# L’exposition itinérante: mise à jour test
 
 L’équipe de Symphonies Boréales est heureuse d’annoncer que son exposition itinérante est construite, opérationnelle et prête à faire chanter nos vieilles forêts partout au Canada! L’exposition voyagera l’année prochaine dans deux galeries en Abitibi-Témiscamingue , mais mais nous planifions présentement une relance de l’exposition pour l’année 2021, restez à l’affut!
 
